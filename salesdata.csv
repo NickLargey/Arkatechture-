@@ -1,0 +1,1001 @@
+sales_person,sales_department,amount,quantity,street,city,state,item_id,date
+Bartholemy Kment,Department B,$95.57,11,857 Homewood Trail,Corpus Christi,Texas,ac3a08921174742f4ef7b8396c9001fc,10/24/2016
+Shane Simkins,Department B,$91.67,7,1 Village Green Lane,Hayward,California,4c50aadc26b17293383336542bbd7a57,8/21/2017
+Zebedee Kedge,Department A,$12.61,78,3162 Stang Parkway,Shreveport,Louisiana,4a4d1f537b2c2a09cacce123357b2352,5/24/2017
+Zaneta Delmage,Department B,$7.44,17,33068 Pond Point,Bonita Springs,Florida,a823cbfe8e035e24e147d18f15f59b03,7/23/2016
+Zebedee Kedge,Department A,$16.27,84,56271 Larry Terrace,Fort Collins,Colorado,4bee8b595099f5cf5fc87ed154078167,4/10/2016
+Dallas Le,Department B,$27.55,10,30 Norway Maple Circle,Madison,Wisconsin,d7e26eab38e3b8d9dc141eab7f2d6d53,10/21/2016
+Nell Lindup,Department C,$3.97,11,2091 Northwestern Avenue,Charlottesville,Virginia,44952c4b179a3bfc77dcfb5b7757aa33,7/4/2017
+Modesty Berringer,Department D,$98.62,100,327 Gerald Hill,Salt Lake City,Utah,b5afcae62290122986395e242c45dd7d,4/8/2016
+Dallas Le,Department B,$86.12,17,275 Stephen Court,Peoria,Arizona,37dc7c2adea5ec8e3f49e55ebc08a138,6/11/2017
+Krystle Boothe,Department D,$87.82,81,15991 Columbus Crossing,Washington,District of Columbia,44fab79b04a1045e75a09b655c0614d6,6/10/2017
+Gothart Whimpenny,Department C,$42.39,1,0 Brickson Park Point,Van Nuys,California,c6f2fe54f6b067fc0c99a5ff29acd7bb,7/2/2016
+Jacquette Oakley,Department C,$78.87,60,66330 Algoma Avenue,Johnson City,Tennessee,c49bfd1ec63ee5506239360a728e3a80,10/22/2016
+Rutherford Kermath,Department D,$4.77,69,7 Talisman Plaza,Honolulu,Hawaii,f2efda6e9b6c0dcf8b17f3c9657a4282,12/13/2016
+Dallas Le,Department B,$27.45,22,05383 Spaight Hill,Clearwater,Florida,d05d85f182f105c55073a2cdd75740c5,12/9/2016
+Brear Fairs,Department D,$34.48,20,6 School Way,Baton Rouge,Louisiana,822aedf2742e0fd482d230e33385821b,7/4/2016
+Celestyna Erskine,Department C,$52.61,78,02 Tony Trail,Spokane,Washington,eef6e158d398efd78d81057fdd4fe243,3/17/2016
+Ashleigh Baudinot,Department D,$80.47,72,4984 Hoffman Court,Ashburn,Virginia,078a0d5c2ed1c6c84b5b821455c707c7,6/10/2017
+Zaneta Delmage,Department B,$54.73,83,741 Farwell Trail,Boynton Beach,Florida,4b1d719001c5a2c6e31040f0bee9d9c2,5/30/2016
+Chad Yeatman,Department A,$41.39,22,1667 Towne Way,Anchorage,Alaska,7899e48e1f24169e7a04167bd2f8137b,5/14/2017
+Ignacio Arpur,Department A,$32.30,72,84692 Randy Court,Montgomery,Alabama,f230a54d8f46ba10b15b869ea5da5735,12/19/2016
+Celestyna Erskine,Department C,$59.38,52,5 Caliangt Park,Los Angeles,California,a302ec783a7e72f38a71d2dbf40024b6,8/31/2016
+Brear Fairs,Department D,$15.48,62,230 Barnett Avenue,Kansas City,Missouri,62c351973bbe3e131ce3f6cd702f026a,3/25/2017
+Brear Fairs,Department D,$61.12,55,700 Lerdahl Pass,Shawnee Mission,Kansas,d34daedd31275383579fb0f88d71bbc5,8/3/2016
+Ortensia Le,Department C,$6.06,80,80 Lunder Center,Erie,Pennsylvania,b9df97999d427f1426424b2b42d9929a,11/25/2016
+Nell Lindup,Department C,$60.25,94,0890 Springview Way,Raleigh,North Carolina,3a523ee736d967d960ccb0f0f567fd1d,2/13/2017
+Nell Lindup,Department C,$69.12,48,12280 American Ash Terrace,Charleston,West Virginia,dfa9219af57621b8c72e94222c773be3,2/6/2017
+Dallas Le,Department B,$49.48,86,4 Northport Alley,Tacoma,Washington,06d01a5e6bb83cf3ec3785ad4287c08a,5/30/2017
+Krystle Boothe,Department D,$77.98,48,8864 Independence Terrace,Springfield,Illinois,c386500c37c9e7c61b0349f12ab5915c,7/5/2016
+Ortensia Le,Department C,$72.57,66,0011 Dixon Pass,Los Angeles,California,0f4c7ae1707ff088dfe6fc8325cad100,7/4/2017
+Krystle Boothe,Department D,$38.28,40,36 American Ash Place,Inglewood,California,28b9f97d592b1352de232c6e07ac6132,1/4/2016
+Chad Yeatman,Department A,$28.86,85,327 Ohio Road,Kansas City,Missouri,5f8199ff0ef77c6230af6b51503d93ef,8/2/2016
+Ortensia Le,Department C,$84.00,57,4824 5th Terrace,Wichita,Kansas,e3379a4c8e1b98bea6c49d868b629d3c,4/25/2017
+Chad Yeatman,Department A,$6.05,84,81550 Blue Bill Park Court,Philadelphia,Pennsylvania,6f5824c655308e4ff2d5100a3440a591,12/23/2016
+Ignacio Arpur,Department A,$53.56,80,3602 Hintze Junction,Maple Plain,Minnesota,c56d00326083ff0cb257610b6213f425,4/26/2016
+Brear Fairs,Department D,$83.42,82,5 Main Place,Sacramento,California,cc74634137c9972838ad3a194e671ac2,5/18/2016
+Powell Amorts,Department B,$11.20,85,31 Petterle Junction,Dayton,Ohio,3f7151966bb93f12a6b612dc33620fc4,12/2/2016
+Ignacio Arpur,Department A,$49.37,74,272 Knutson Avenue,Philadelphia,Pennsylvania,fa88b4cab39b80abe063da5f722e14b6,7/8/2016
+Ortensia Le,Department C,$78.86,98,4 Butternut Hill,Pasadena,California,73701699b215c9f057eb46ba3785fbab,9/13/2016
+Brear Fairs,Department D,$62.99,100,7 Cottonwood Trail,Detroit,Michigan,ef9b17cbf476f754b8944d4e8ba82262,4/7/2017
+Dallas Le,Department B,$49.86,79,8 Myrtle Way,Champaign,Illinois,8eb65310ad297b2b9ce7007568430351,12/17/2016
+Ignacio Arpur,Department A,$54.69,38,037 Nancy Junction,Atlanta,Georgia,a792628150628d88a59ffcbdfde56a94,6/21/2017
+Powell Amorts,Department B,$80.66,84,51 Glendale Alley,Aurora,Colorado,1f68998f37cbdd6915d11d5bc5c6419b,1/19/2016
+Nell Lindup,Department C,$77.17,19,66 Messerschmidt Place,Schenectady,New York,581ff21d05f6deac0a68fe73c6a30817,4/3/2017
+Ashleigh Baudinot,Department D,$23.80,99,6 Bowman Circle,Nashville,Tennessee,fbdc7bfcbd4e2d00e469d3e9ebf2782d,3/27/2017
+Ortensia Le,Department C,$43.10,59,2 Schlimgen Park,Wilkes Barre,Pennsylvania,e85d0734c1b4df24f963372657500917,1/19/2017
+,,,56,9152 Old Gate Avenue,Columbia,South Carolina,17f5ff321dce5a271006bf9d5421f6c0,1/19/2016
+Brear Fairs,Department D,$59.39,79,2119 Cascade Trail,Montpelier,Vermont,0db96f80191626146c6deb49da51a00b,10/8/2016
+Krystle Boothe,Department D,$40.59,53,0 Eggendart Drive,Southfield,Michigan,e7e8af726176874a5d719cf3405c37aa,7/3/2017
+Shena Reeson,Department B,$45.53,66,4 Riverside Trail,Miami,Florida,ed3bb65bdf5c579bc8fd1c3e27b33c10,3/10/2017
+Ashleigh Baudinot,Department D,$68.90,92,13 Grim Pass,Riverside,California,668daa151afedcad6e642bf7e4ffcd3d,4/29/2016
+Linn Becerra,Department B,$68.32,75,18990 Chive Park,San Jose,California,6af144175469d3949168f313208b436d,3/4/2017
+Shena Reeson,Department B,$86.63,19,464 Clarendon Lane,Brooklyn,New York,4e9a7f1c4163674e3c9f455ed3b4f74d,7/12/2017
+Atlante Harower,Department D,$42.61,22,22 Corscot Pass,Kingsport,Tennessee,36c7800ebd1f93a102f556592b86b45d,7/23/2016
+Krystle Boothe,Department D,$39.67,28,454 Eastlawn Circle,Minneapolis,Minnesota,fae8736e9980f28dd3fa80b0555d7fe5,6/20/2017
+Zaneta Delmage,Department B,$13.66,91,6228 Vernon Hill,Bronx,New York,f3a4192c2a5bab08b2251daf49f30c9e,11/8/2016
+Ortensia Le,Department C,$53.99,95,20039 Sutherland Park,Nashville,Tennessee,318c637a49a0ab70f4814bcb5e168640,3/19/2017
+Zebedee Kedge,Department A,$62.91,59,61 Monterey Circle,Austin,Texas,2beeec1ee9ab605086b59034b1ea8e30,6/2/2017
+Linn Becerra,Department B,$80.37,44,1 Anhalt Street,Riverside,California,3587ad6e4696a5d9eded99a8105138bc,7/3/2016
+Bartholemy Kment,Department B,$9.85,77,228 Macpherson Avenue,Panama City,Florida,ee202de1077f0736cbd05daafacd237a,7/17/2017
+Nell Lindup,Department C,$50.67,98,1 Esker Junction,Wilmington,Delaware,71cdbaafa0b853f45b48ed171bd8e7e0,7/27/2017
+Atlante Harower,Department D,$5.18,37,03004 Tony Parkway,Fresno,California,93bb59ab5a7aed2d7a4f10614d845cb0,6/24/2016
+,,,62,14104 Northport Circle,Saint Petersburg,Florida,49a46344b385f28d44a7fab924e4f306,7/31/2017
+Krystle Boothe,Department D,$96.60,44,5 Sloan Trail,Cleveland,Ohio,bf0ffae4bdadde3f159b90ccaa3a4bc0,7/21/2017
+Shena Reeson,Department B,$6.06,12,17 Cambridge Drive,Philadelphia,Pennsylvania,ccb11783d1695667f2227d37d3d3f4e5,1/23/2016
+Zaneta Delmage,Department B,$38.02,43,09906 Dryden Hill,Salt Lake City,Utah,519493c358a48c2410f3db10eef76558,5/6/2017
+Zebedee Kedge,Department A,$91.78,21,541 Leroy Way,Mesa,Arizona,e4239262538d34e67964ce776f453f18,7/12/2016
+Krystle Boothe,Department D,$19.98,37,1199 Pawling Center,Nashville,Tennessee,d35cd9052e7b6d2f9ab0bf7b0a9b93f7,8/26/2017
+Modesty Berringer,Department D,$90.36,27,9 Redwing Court,Washington,District of Columbia,fc689d45141231af2d8088849c4386c6,7/3/2016
+Rutherford Kermath,Department D,$94.81,36,43 Carioca Park,Vancouver,Washington,145673a24af18fd9d3ebb727ee75efd8,1/11/2017
+Ortensia Le,Department C,$70.45,63,88 Ridgeview Junction,Washington,District of Columbia,2970f79c2f5df5df65363004ed1f1369,10/24/2016
+Ignacio Arpur,Department A,$55.57,34,96183 Scofield Way,Cincinnati,Ohio,e2deff005c3a60fe255c548adda31d79,2/3/2017
+Brear Fairs,Department D,$14.55,100,633 Texas Circle,Seattle,Washington,e99f487ecc15eed66b425c111b7eeab0,6/12/2017
+Modesty Berringer,Department D,$44.97,41,31 Calypso Center,New York City,New York,ea252f089a2dc2548a8308c564874a53,4/26/2017
+Brear Fairs,Department D,$6.53,79,56 Erie Park,Portland,Oregon,1a03ba10178bedeecd385fe807ce7141,4/16/2016
+Celestyna Erskine,Department C,$7.14,48,6001 Dexter Road,Detroit,Michigan,ba7f082b54d78fcff871bb61e1c2806e,5/7/2016
+Rutherford Kermath,Department D,$52.63,78,5746 Carpenter Road,Sacramento,California,a24f4fea4528b8d93e028d7628b62b78,7/15/2016
+Modesty Berringer,Department D,$55.55,87,987 Nancy Drive,New Haven,Connecticut,23df19abd396e747460983327cb825f2,10/31/2016
+Zaneta Delmage,Department B,$12.74,84,888 Bayside Park,Pittsburgh,Pennsylvania,77f6b59fc706690c11d36cdf8122356e,4/4/2017
+Bartholemy Kment,Department B,$38.13,18,0135 Macpherson Parkway,Orange,California,c2c01fc6c284788d7549e4c10dda0ada,1/2/2016
+Atlante Harower,Department D,$12.60,56,9 Mifflin Street,Temple,Texas,2b010ac55ba41e1c5a15f4133c44b746,1/19/2016
+Nell Lindup,Department C,$78.03,45,783 Lotheville Court,Waterloo,Iowa,42f82b52b41015f247f524f223d83907,10/24/2016
+Celestyna Erskine,Department C,$21.32,22,105 Doe Crossing Terrace,Jacksonville,Florida,3a7337c4ee72407cef89caf38e6c9368,6/23/2016
+Linn Becerra,Department B,$59.97,3,72521 Schurz Park,Philadelphia,Pennsylvania,4a22988caee63ed481294b8de83aaaa5,6/9/2016
+Linn Becerra,Department B,$51.52,35,1000 Waxwing Park,Shawnee Mission,Kansas,1d92ebb737cf3de4f697146f6f840f8f,1/18/2017
+Ignacio Arpur,Department A,$10.01,32,64270 Eagan Hill,Washington,District of Columbia,bfc3ff886159800bd0642c6b9021debe,3/1/2017
+Brear Fairs,Department D,$92.96,51,8 Daystar Junction,Tulsa,Oklahoma,d740c7dccb832ca7bbe200bd424f47fe,3/26/2016
+Ignacio Arpur,Department A,$22.01,64,73494 Ronald Regan Crossing,Corpus Christi,Texas,a2f5bcc2e9cdd527f327c919071c479e,12/14/2016
+Celestyna Erskine,Department C,$26.67,9,381 Rowland Hill,Long Beach,California,0fc663c483f39e5640fbc03821824654,5/31/2017
+Powell Amorts,Department B,$58.71,79,6900 Spaight Hill,Bloomington,Indiana,e486ac004c5029c657fa489a462256f5,7/8/2017
+Shane Simkins,Department B,$1.41,42,59730 Carey Street,Fort Worth,Texas,103097c7e403949d7597f0d419f46701,8/17/2016
+Linn Becerra,Department B,$39.16,67,58522 Hanover Road,Topeka,Kansas,58fa85e2fb5cc2360c7b7cfaae57e3c0,4/25/2016
+Ignacio Arpur,Department A,$47.46,100,26233 High Crossing Pass,Norman,Oklahoma,5feab3a8c828ab8f98ae528e9d1f9bc3,6/19/2017
+Ignacio Arpur,Department A,$94.64,39,775 Emmet Avenue,Topeka,Kansas,226b55f730e8d723b7d360e2db4f211c,2/12/2016
+Atlante Harower,Department D,$67.35,2,670 Kings Point,Fargo,North Dakota,64784e4d80d5f7e6f343dff14f6e9087,9/24/2016
+Ortensia Le,Department C,$76.16,34,977 Jackson Circle,Atlanta,Georgia,a6bfa43dce828f93068cf83f7a02834d,3/3/2017
+Zebedee Kedge,Department A,$92.23,12,38030 Buena Vista Avenue,Washington,District of Columbia,f2f43521dce46429c3c36c1e7e6fe25a,8/24/2017
+Celestyna Erskine,Department C,$94.06,47,2 Corry Crossing,White Plains,New York,c942a155f4f5a493c737eada9e2ac1ac,5/15/2016
+Shena Reeson,Department B,$53.68,4,61 Lukken Road,Baltimore,Maryland,85f308f36ea479b91e3060545f3f7c81,3/31/2017
+Gothart Whimpenny,Department C,$27.02,53,707 Hoard Park,Fresno,California,d2444e8e99e15c73e72153ab4ebf05cd,3/11/2017
+Linn Becerra,Department B,$53.59,51,1 Lukken Court,Jackson,Mississippi,7a2f85ed719bd4e7e23c8fa67d31e06a,9/2/2016
+Nell Lindup,Department C,$85.72,69,68 Lakewood Gardens Terrace,Los Angeles,California,775366795912af2f72876db7c085db2c,3/28/2017
+Shena Reeson,Department B,$80.00,37,93 Gateway Lane,Plano,Texas,63482d3958aa62ac160f58d22611e83a,4/25/2017
+Chad Yeatman,Department A,$13.25,42,5 8th Terrace,Long Beach,California,3514109e6d52f101de703e34f9e92577,9/9/2016
+Dallas Le,Department B,$94.79,94,03 Jackson Circle,Port Washington,New York,3a7f4fc1edf7cb57f1ba8dd6818d626a,1/19/2016
+,,,50,55746 Di Loreto Park,Memphis,Tennessee,d5fcb1aa067e65596bc85fa25dd091e6,8/14/2016
+Modesty Berringer,Department D,$6.32,53,27000 Spaight Plaza,Colorado Springs,Colorado,6155a22df20e2ec285f3b76aa927bb1c,3/14/2017
+Linn Becerra,Department B,$26.47,38,32 Reinke Crossing,San Francisco,California,5c0bfa4bf27074a61d936b3b19a093c9,7/17/2017
+Jacquette Oakley,Department C,$42.55,56,4 Manley Way,Ogden,Utah,5828a2ac781e6bb460e1b97b969107c6,6/13/2017
+Zaneta Delmage,Department B,$44.91,18,4 Carioca Center,New York City,New York,fba3a5d053d8b2d9f114d0f5edfedd16,8/2/2017
+Krystle Boothe,Department D,$30.39,77,774 Pankratz Alley,Fresno,California,d914f89d84423af5ae591f8adfd77588,11/2/2016
+Gothart Whimpenny,Department C,$83.24,91,172 Onsgard Avenue,Erie,Pennsylvania,8727dd2f56f2fe8873a756efc325f444,4/22/2017
+Krystle Boothe,Department D,$42.00,90,21374 Messerschmidt Avenue,Boulder,Colorado,11067224fa22d28b396a75e4fd38fea0,10/22/2016
+Powell Amorts,Department B,$50.15,74,03 Reindahl Trail,Macon,Georgia,03bb00ece2d3643434edcc1a1fd22986,5/21/2016
+Dallas Le,Department B,$21.52,7,2 Springview Lane,Saint Petersburg,Florida,bbe5645fa93f2bed76f3d23952c97ba3,8/19/2016
+Rutherford Kermath,Department D,$19.83,73,36115 Hintze Circle,Lake Worth,Florida,f380b47acd7e72b6497e7d585b174c75,10/26/2016
+Atlante Harower,Department D,$11.45,79,50185 Autumn Leaf Circle,Beaumont,Texas,51f8e3fedb14ff027e42785afe1c0d46,3/11/2017
+Modesty Berringer,Department D,$92.60,88,981 Stoughton Point,Tucson,Arizona,7eb3bb4b7101f5f5b550b09aa91a1054,1/30/2017
+Jacquette Oakley,Department C,$10.68,74,409 Waxwing Drive,Springfield,Illinois,2bc0ed245cf01c1a58fbc731db039e74,8/8/2016
+Nell Lindup,Department C,$70.06,50,8 Blue Bill Park Way,New Orleans,Louisiana,5db930ea9d7f8e99574b04ba9d7fb735,1/8/2017
+Shane Simkins,Department B,$83.35,5,5 Texas Trail,Philadelphia,Pennsylvania,96fc24dc1a3c3ea1c7603c040db0c3cf,3/19/2017
+Gothart Whimpenny,Department C,$77.40,31,679 Mandrake Circle,Fairfield,Connecticut,3f2e28b226516fedea835b335f4af585,5/9/2016
+Atlante Harower,Department D,$69.42,43,81 Waxwing Park,Miami,Florida,3103c485c11c0afbca1e606d00c9a762,2/13/2016
+Nell Lindup,Department C,$0.82,71,89 Superior Road,Tuscaloosa,Alabama,624b589ae96ccf404500b524ab30ee62,7/23/2016
+,,,22,64 Ramsey Lane,Hamilton,Ohio,5f581c9f31f7593a9d3a113e83a271c4,8/5/2016
+Brear Fairs,Department D,$6.63,3,622 Brown Avenue,Washington,District of Columbia,54ac9f990a6bb575f9c8173c4a1cddde,2/19/2017
+Bartholemy Kment,Department B,$75.59,64,28098 Maple Center,Mesa,Arizona,be6357544a94e82ad3975eb89c5756b2,5/21/2017
+Ortensia Le,Department C,$22.62,59,7769 Shelley Terrace,San Francisco,California,fda84cd636f7da8a6eed9dd1bdca5e44,12/8/2016
+Celestyna Erskine,Department C,$25.38,58,60 Scott Road,Philadelphia,Pennsylvania,bdc2e2ab7b685b65a645ad3b57037094,7/31/2016
+Ashleigh Baudinot,Department D,$43.57,90,982 Center Street,Houston,Texas,a16fc1b4695757bd6143c4a514a366f0,8/2/2016
+Linn Becerra,Department B,$68.83,8,924 Carioca Place,Wilkes Barre,Pennsylvania,b784fe8c2d92e5d05e5270e47ad85ec0,1/4/2017
+Krystle Boothe,Department D,$37.89,45,73046 Darwin Park,Sacramento,California,e4c348e9aff06592b970996ba278b026,1/1/2017
+Nell Lindup,Department C,$19.50,61,7647 Blue Bill Park Plaza,Akron,Ohio,2962db913007cba53f874049adab3e11,4/29/2017
+Zaneta Delmage,Department B,$67.93,6,330 Hoffman Center,Santa Barbara,California,968227e7a4e3e1509949ce77ffafc4c7,6/30/2016
+Jacquette Oakley,Department C,$41.45,35,518 Briar Crest Lane,Fairbanks,Alaska,ad88364b8c9be149e4b4c5c3e9063c6e,6/7/2017
+Shane Simkins,Department B,$2.79,9,45448 Village Green Lane,Charlotte,North Carolina,76dfa8673e52a5cd1a6ec6ab88b5a744,8/26/2017
+Bartholemy Kment,Department B,$13.40,65,72454 Monica Avenue,Corpus Christi,Texas,72e1b13f0fad4e68d01b2243813b2b32,9/28/2016
+Krystle Boothe,Department D,$45.26,3,240 Swallow Trail,New York City,New York,3d1df4a3a33c1155a9f9512e75b57724,8/8/2016
+Krystle Boothe,Department D,$96.20,98,84 Kim Avenue,Olympia,Washington,26746a1b60d0716acf3d53cc059edee5,2/24/2016
+Jacquette Oakley,Department C,$51.74,66,3 Butternut Trail,Lincoln,Nebraska,333c0853dc52638b80b21c142813bbb6,8/19/2017
+Nell Lindup,Department C,$75.80,8,9 Monument Point,Sacramento,California,6d655218b36d9bbd3eebd077e437c4db,5/15/2017
+Zebedee Kedge,Department A,$1.63,19,57198 Shasta Avenue,Arlington,Texas,b368b80cdd1542414554926c5f30de5a,10/13/2016
+Jacquette Oakley,Department C,$28.47,80,96539 Goodland Plaza,Atlanta,Georgia,fb05c601799efddf5fe41f7282ad4de2,4/10/2017
+Brear Fairs,Department D,$6.86,85,4961 Farragut Avenue,Fresno,California,045cfbb6cc6f24a712cccf35af5ac054,4/20/2017
+Rutherford Kermath,Department D,$93.24,34,0125 Swallow Pass,Charleston,South Carolina,fa68be6cd0f4865912ef1e21a80a74f5,8/6/2017
+Atlante Harower,Department D,$73.04,18,95540 Eastwood Terrace,Manchester,New Hampshire,95dbdbebc260da3c3db54cb9246c5b4d,5/4/2017
+Celestyna Erskine,Department C,$81.00,86,3 Pond Junction,Seattle,Washington,d08450e853cc99767b13c8254b33d67c,4/27/2017
+Celestyna Erskine,Department C,$11.29,62,89343 Hermina Way,Gainesville,Florida,4b0200aa200514d7b04370352d1aeb2f,2/3/2016
+Zaneta Delmage,Department B,$66.55,40,8 Steensland Road,Wichita,Kansas,b2b9ab65ce76f739e91a0dcff804507c,4/29/2016
+Rutherford Kermath,Department D,$80.45,50,96 Victoria Alley,Topeka,Kansas,d5e3202b8342bc0307b71addf7f8f8dc,2/26/2016
+Linn Becerra,Department B,$11.65,53,2 Dakota Lane,Daytona Beach,Florida,a24fb574cb77a055225f8a8596bdf0dd,4/8/2017
+Atlante Harower,Department D,$66.45,91,881 Linden Crossing,Harrisburg,Pennsylvania,6329a28d18ceb5a64a3d3d873aca14ce,4/2/2016
+Nell Lindup,Department C,$36.79,33,662 Memorial Terrace,Young America,Minnesota,55e72da0186bc02680ba9c46455d8bb0,6/12/2017
+Celestyna Erskine,Department C,$79.83,63,5 1st Road,Tampa,Florida,0aa967bb8ed09c88997886945c168055,4/9/2017
+Shane Simkins,Department B,$55.96,51,52971 Dwight Terrace,Columbia,South Carolina,fcaf0ad75e5d7549f857a0254b54270b,4/26/2017
+Atlante Harower,Department D,$85.77,34,0523 Judy Street,Anchorage,Alaska,c379339762eeff97a0b70186ad7fdc29,7/14/2016
+Zaneta Delmage,Department B,$64.04,76,38 Helena Crossing,Huntington,West Virginia,f37e13a2fde1967e104deda7ae8136f9,2/6/2016
+Celestyna Erskine,Department C,$79.37,49,928 Eggendart Park,Littleton,Colorado,a498a0a5fc0c9607cb9ad35a49c725e8,7/19/2017
+Powell Amorts,Department B,$92.38,89,0 Lighthouse Bay Circle,Tucson,Arizona,74de9c0e6abaa75d7ec4b54ef96d326e,9/26/2016
+Modesty Berringer,Department D,$74.84,89,1505 Mcbride Parkway,Lehigh Acres,Florida,ed7893be59842e1c9448a25dc9e5b446,6/15/2016
+Rutherford Kermath,Department D,$68.29,75,22 Becker Crossing,Tacoma,Washington,8061f38f2a3b6e276cacde614640560a,1/13/2016
+Ashleigh Baudinot,Department D,$54.45,99,6947 Fuller Alley,Anchorage,Alaska,47a5de26f65a31e5b83ecab4aa854bf6,3/11/2017
+Linn Becerra,Department B,$49.61,39,92596 Pankratz Point,Burbank,California,bf21a83c3482ecbc4ae0b4907c3c81ee,8/21/2017
+Shena Reeson,Department B,$45.12,93,1 Londonderry Parkway,Memphis,Tennessee,14aab98b04e6a2e07f8a25a3beacaf25,7/15/2016
+Brear Fairs,Department D,$4.27,28,6 Village Trail,Columbia,South Carolina,c485eb07f8e40c037343a89d70ba6ae7,1/17/2017
+Shane Simkins,Department B,$12.21,15,27845 Upham Way,Jamaica,New York,65d2f90f9cec819b58608dfcfd4aa06d,1/5/2017
+Rutherford Kermath,Department D,$17.32,52,93 Sloan Center,Roanoke,Virginia,2f68e840db56ac6cccab85c319819594,6/11/2017
+Shane Simkins,Department B,$7.45,90,18 Stone Corner Place,Nashville,Tennessee,63439b122894012bdc07c27802453a58,9/28/2016
+Shane Simkins,Department B,$14.63,86,79 Erie Street,San Diego,California,44ca3807c354b60dcf077ff362256d82,1/11/2016
+Gothart Whimpenny,Department C,$71.38,93,80 Oak Valley Plaza,Atlanta,Georgia,7f511b795c65dd16c8ff301bab51d6c3,9/22/2016
+Zaneta Delmage,Department B,$58.98,57,21 Hazelcrest Court,Albany,New York,394131568cb2b9dc8d1d939983fb1ad7,8/27/2016
+Zebedee Kedge,Department A,$63.38,80,872 Summer Ridge Plaza,Bronx,New York,c67ef295bfc30ec4a1ebda422e702cb7,1/3/2017
+Powell Amorts,Department B,$31.23,12,44 Laurel Avenue,Miami,Florida,cd7e70812a7fd980674ea3c968cf7c65,6/5/2017
+Jacquette Oakley,Department C,$83.34,4,74 Pearson Road,Atlanta,Georgia,b973e1cff4bd2f3c10b716d327f58d98,1/15/2017
+Rutherford Kermath,Department D,$34.76,60,79 Prairie Rose Alley,Houston,Texas,c11c82e4a16f918872956e4997acbeeb,1/7/2016
+Dallas Le,Department B,$27.17,94,39 1st Crossing,New York City,New York,6d8c8850342b8daf26e200154fe72abf,1/18/2017
+Dallas Le,Department B,$6.57,38,77 Annamark Park,Charleston,West Virginia,549e9b8a5160d74009dc04a8173fa778,1/18/2017
+Atlante Harower,Department D,$15.95,41,3 Rowland Circle,College Station,Texas,6d806382b735f8b80ab5b58e909558c6,3/23/2017
+Atlante Harower,Department D,$78.18,29,1438 Lake View Avenue,New York City,New York,88e19c1877408c5cb69e58f8f95e1878,4/27/2017
+Brear Fairs,Department D,$93.58,32,202 Ryan Terrace,Jacksonville,Florida,2652527084e07143da9dc7ff9a62f3b9,8/22/2016
+Gothart Whimpenny,Department C,$96.58,15,808 Lakewood Way,Houston,Texas,9dfb3cbb1d26227c3d81818fa7a82e6c,12/16/2016
+Shena Reeson,Department B,$75.11,72,810 Bunting Parkway,Nashville,Tennessee,d69210f721987da1358d172a3ba7f38f,10/19/2016
+Modesty Berringer,Department D,$66.68,42,021 Prentice Junction,Dayton,Ohio,508071959d24547b76740b8c84462f75,7/5/2017
+Jacquette Oakley,Department C,$10.22,32,8 Oriole Park,Philadelphia,Pennsylvania,85e92f1b584ab90c260fcfabb4d17551,4/16/2016
+Powell Amorts,Department B,$4.75,82,45 Brentwood Alley,Newark,New Jersey,0f84345764f05e0f3112feffa099d096,5/15/2016
+Linn Becerra,Department B,$95.63,86,15448 Forest Dale Park,Indianapolis,Indiana,b95fcb063bca365ec32a1ebc9ea3b016,5/5/2016
+Bartholemy Kment,Department B,$39.77,55,879 Ludington Point,Baton Rouge,Louisiana,a59f03b78170bd24485fbbc155c99be3,12/17/2016
+Dallas Le,Department B,$26.98,22,6500 Kipling Way,New Brunswick,New Jersey,d06998e04091bb7719132189c1cbaa14,5/3/2017
+Gothart Whimpenny,Department C,$31.49,52,577 Dorton Plaza,Portsmouth,Virginia,ce18dedb3e778984c38d883b886f9e06,5/29/2017
+Ashleigh Baudinot,Department D,$90.06,59,739 Hintze Road,Baltimore,Maryland,255fd5d567cb61466ec6f7b72f970ba5,9/21/2016
+Atlante Harower,Department D,$7.05,79,9564 Dovetail Junction,Erie,Pennsylvania,9601833c4510921b56971067d3c7699c,10/17/2016
+Shane Simkins,Department B,$19.01,2,4731 Lawn Place,Cleveland,Ohio,da8082017541cffd6115e8c31693e518,8/1/2017
+Rutherford Kermath,Department D,$77.98,67,83 Tennessee Point,Corpus Christi,Texas,f5a92bc42fad67b009ba4d744efe035f,2/16/2016
+Nell Lindup,Department C,$91.64,26,9916 Monica Place,Pensacola,Florida,3f96d59e83991535e0e08d15a7983ec5,9/6/2016
+Dallas Le,Department B,$9.60,96,788 Erie Street,Lexington,Kentucky,60112b77c13fb62c1305e561ff8c3aee,3/25/2016
+Rutherford Kermath,Department D,$35.81,17,16 Summer Ridge Crossing,Fullerton,California,bc7d10a4e423c2865bed00bc8a6ff4f8,1/26/2016
+Zaneta Delmage,Department B,$67.83,87,866 Starling Street,Olympia,Washington,db5d66e2eca20462b9da2b85e7503748,4/7/2017
+Rutherford Kermath,Department D,$54.94,42,27 Evergreen Way,Kansas City,Missouri,ef284e387b271c12bdfb0a753b890168,8/2/2017
+Shane Simkins,Department B,$26.93,71,16 Amoth Drive,Gatesville,Texas,59fa10b34e920561b9163af8a2b3dbe5,11/4/2016
+Brear Fairs,Department D,$22.00,62,1813 Delladonna Lane,Baton Rouge,Louisiana,bf5c303377bcceb8cd81253915b44fb7,7/19/2017
+Linn Becerra,Department B,$19.41,89,823 Acker Terrace,New York City,New York,144d6a44333b057e0bf121b011bada35,5/4/2017
+Nell Lindup,Department C,$78.08,52,3 Hallows Park,Charleston,West Virginia,9edfdfe8c55b5cf1a815b179f34b0592,6/14/2017
+Atlante Harower,Department D,$78.45,66,51 Cordelia Hill,Denver,Colorado,34bf5dc23eb86a527c8dfe93cb5eb51c,1/26/2017
+Shane Simkins,Department B,$79.06,77,156 Fulton Court,Albany,New York,b75cb0140cce6d9d86bd3900983d4305,3/30/2017
+Celestyna Erskine,Department C,$4.02,74,964 Summit Plaza,Rochester,Minnesota,e67b4ee1706af5b12d53b04fb8a75d05,10/4/2016
+Linn Becerra,Department B,$0.23,34,5964 Pierstorff Point,Saint Petersburg,Florida,723ec4fdf03097f000ed551ec605aec6,5/16/2016
+Powell Amorts,Department B,$97.85,58,6 Shopko Point,Corpus Christi,Texas,d30859539d0c8b42fd6aa117fb3ef173,9/23/2016
+Atlante Harower,Department D,$63.63,21,2 Sullivan Court,Warren,Ohio,b0efd24cc8716e35a04895b7a79a7b8f,8/3/2017
+Jacquette Oakley,Department C,$54.77,8,446 Bowman Terrace,Columbus,Mississippi,e4ecce0bed14c814dd0be62ad243a81c,5/11/2017
+Zebedee Kedge,Department A,$76.60,61,0 Dayton Avenue,Chicago,Illinois,f57fbd7a8e86c48c89a0cfe037280b51,4/21/2016
+Modesty Berringer,Department D,$68.60,21,51 Ridge Oak Court,Atlanta,Georgia,e51cb1b5164b17bc58622669f611ef0a,12/23/2016
+Jacquette Oakley,Department C,$38.68,75,0909 Cottonwood Parkway,Denver,Colorado,92736fec379c1dd2bc2cce9e6c1682c3,2/23/2016
+Linn Becerra,Department B,$12.90,56,274 Anderson Parkway,Milwaukee,Wisconsin,74a3fdb75aa7af34cb66925a8cb65576,6/4/2016
+Krystle Boothe,Department D,$76.20,25,24 Blue Bill Park Road,Washington,District of Columbia,2d0f8cb9ee0e6a5e77daeb451b94283b,3/1/2016
+Modesty Berringer,Department D,$92.68,39,2 Roxbury Circle,Reston,Virginia,7221eb56e284c283e78953fa8db9bfbc,2/10/2016
+Linn Becerra,Department B,$38.51,78,1261 Judy Center,Kansas City,Missouri,36f3b558e6e6326ab5fb2b0262ca24c1,8/27/2017
+Powell Amorts,Department B,$15.30,93,351 Weeping Birch Junction,Carson City,Nevada,36ebf8726d11c50b75e735b921a7f063,4/3/2016
+Dallas Le,Department B,$27.71,64,190 Union Terrace,Raleigh,North Carolina,2d995a4675876cc58df507fd87e5cad3,4/23/2017
+Modesty Berringer,Department D,$50.80,77,6 Glacier Hill Circle,Philadelphia,Pennsylvania,3107a2a20d68a25857f60969ba75fdb6,4/14/2017
+Dallas Le,Department B,$48.28,44,0133 Straubel Trail,Reno,Nevada,84e57b877f2df2ac17f5ddb8c5368208,6/7/2016
+Powell Amorts,Department B,$64.48,3,1602 Fallview Crossing,Charleston,West Virginia,d77d7400a3f7313063e0d9adc910bf54,10/1/2016
+Brear Fairs,Department D,$39.05,72,75624 Tomscot Avenue,Albany,New York,4ccae0d73ac686ffb18c36866b23be04,10/8/2016
+Ignacio Arpur,Department A,$58.83,46,33416 Hansons Place,Midland,Texas,b7a8c61892b1f5f7e2f46b5302dc1c99,5/20/2017
+Krystle Boothe,Department D,$82.41,51,48 Clarendon Avenue,Lexington,Kentucky,55611bb7ada55c335595470462e5a36b,3/4/2017
+Krystle Boothe,Department D,$19.29,57,9653 Fulton Point,Clearwater,Florida,408e0be620be2c48c19a363f35f90e29,7/12/2016
+Dallas Le,Department B,$10.49,83,14282 Pearson Lane,Colorado Springs,Colorado,20a85b7c005708160d6d2370a269a756,9/2/2016
+Bartholemy Kment,Department B,$52.55,31,69 Mockingbird Terrace,Greensboro,North Carolina,c838dc8bebb11e3c2f9fed2e9becc2f5,2/28/2016
+Bartholemy Kment,Department B,$20.87,84,26049 Grayhawk Way,Portland,Oregon,c07681bda204a53c9da6341d1c8852a8,1/29/2017
+Bartholemy Kment,Department B,$43.37,10,892 School Center,Albany,New York,4c9766258a88f101eae38a66440abd3a,1/12/2016
+Bartholemy Kment,Department B,$88.17,41,273 Goodland Junction,Albany,New York,673a0b70b00398830b3956905ffe00f3,7/12/2017
+Celestyna Erskine,Department C,$11.12,12,3 Caliangt Road,New York City,New York,c2366bf9119143291e9882e4f8e62f0f,7/30/2017
+Jacquette Oakley,Department C,$92.33,85,04 Westerfield Plaza,San Francisco,California,0e0e7f8e4167429fde20d1c4b4b4c3ee,4/23/2017
+Shane Simkins,Department B,$27.76,33,3539 Village Junction,Buffalo,New York,614f4e0640c201ad274e4cb8bc4196f6,6/21/2017
+Linn Becerra,Department B,$39.99,30,029 Dwight Center,Kansas City,Kansas,18f25fae142857298639e458e6caffcd,9/30/2016
+Shena Reeson,Department B,$91.24,65,82 Arkansas Way,Valdosta,Georgia,ad4e4207b59ecad826fc73d89aa736bb,3/6/2017
+Dallas Le,Department B,$88.33,4,6 Pankratz Street,Cape Coral,Florida,b79fbff145fb1ddf78aeb20909b937a2,8/24/2017
+Nell Lindup,Department C,$60.27,68,8 Dryden Parkway,Bethesda,Maryland,e34b737d9a79ffee4c859457bf703ea7,1/30/2016
+Ortensia Le,Department C,$35.72,47,223 Blackbird Road,Midland,Michigan,7b9dab2e5945cb7bc3a22617822e5d23,11/5/2016
+Zaneta Delmage,Department B,$3.13,61,603 Morning Court,Charlotte,North Carolina,a90a1d1c328694b08b6304cfe42ec949,2/2/2016
+Modesty Berringer,Department D,$89.34,98,968 Hintze Plaza,Reston,Virginia,2a5acc915e8d2b300627d8ea3aba6fb6,6/10/2017
+Jacquette Oakley,Department C,$87.84,3,11 Tennyson Junction,Memphis,Tennessee,43001aef5d7914e77d7d52f5e9f2e825,11/7/2016
+Brear Fairs,Department D,$13.35,55,5469 Fremont Street,Washington,District of Columbia,627b8a87e82d8ad2a9275c405bb193e6,7/29/2017
+Bartholemy Kment,Department B,$55.36,13,85 Warrior Point,Louisville,Kentucky,eb329c546c594c88395d78555741df76,8/17/2017
+Ortensia Le,Department C,$90.35,38,20 Anniversary Road,Des Moines,Iowa,485e1bef6a69fdfacbef1bd963371202,7/19/2016
+Ignacio Arpur,Department A,$63.52,79,9393 School Court,Saint Louis,Missouri,dde0d442487dc5c28e3fdb07ae949795,5/25/2017
+Chad Yeatman,Department A,$28.64,40,00157 Calypso Junction,Detroit,Michigan,b016bda182983e8979eba987cd234e60,1/29/2016
+Shena Reeson,Department B,$56.17,53,8061 Morrow Court,Lexington,Kentucky,6faee28acd981f167c4a485fd2348fa2,1/17/2017
+Zaneta Delmage,Department B,$48.00,87,406 Lighthouse Bay Trail,Lancaster,Pennsylvania,b71238dd7e5a6d3fe6bb8fdc83014388,5/29/2016
+Linn Becerra,Department B,$78.61,29,3 Menomonie Crossing,El Paso,Texas,a32da0118456254b6a7b94d404eeba81,12/18/2016
+Atlante Harower,Department D,$95.69,89,2595 Reinke Drive,Fort Pierce,Florida,7089f83a1a13ad0c5025b8516b521ff3,7/26/2017
+Rutherford Kermath,Department D,$88.07,65,88 Stephen Point,Ashburn,Virginia,c71c13f15902bd2a2e09cd33843893e7,12/23/2016
+Powell Amorts,Department B,$47.14,17,4917 Crest Line Court,Rochester,New York,d2152ba79acb2ccc32e8ee2eb395dc1e,3/8/2016
+Modesty Berringer,Department D,$43.65,6,128 Northview Parkway,Santa Monica,California,4921d39ad33057875f8d352537df746d,3/20/2016
+Chad Yeatman,Department A,$1.12,10,62271 Jenifer Avenue,Birmingham,Alabama,bc5df47b32c862212c56b933afb01154,1/28/2016
+Gothart Whimpenny,Department C,$12.46,82,1 Bay Trail,Abilene,Texas,0f4751d0f34e4f6a15e67ea18a67fe91,2/17/2017
+Shane Simkins,Department B,$64.73,77,9 Mallard Hill,Atlanta,Georgia,78cf818ad2331bf30403bda296f33158,7/22/2017
+Atlante Harower,Department D,$16.23,72,5867 Birchwood Terrace,Atlanta,Georgia,d5ecc845262e5e280ff7696a2b0fd45a,1/24/2017
+Chad Yeatman,Department A,$3.36,56,26550 Burning Wood Circle,Apache Junction,Arizona,71ee486dd67f78bf48d0b7bf9ac4f46e,7/21/2016
+Gothart Whimpenny,Department C,$86.05,27,59983 Mcguire Center,Panama City,Florida,3ac18ef7e7cb9cfeebb2f66e816f1f60,2/15/2017
+Brear Fairs,Department D,$29.88,23,55 Susan Avenue,Saint Louis,Missouri,1122f90b31f1807bd6d586b28451810b,5/14/2016
+Zaneta Delmage,Department B,$21.92,34,37134 Clemons Parkway,Decatur,Georgia,5fac386e2596956f29a8bb0e20eed92d,4/3/2016
+Shena Reeson,Department B,$41.05,65,541 Milwaukee Alley,Sacramento,California,c34d95274e5bf7b8c78b0fba87310f14,1/12/2017
+Shena Reeson,Department B,$61.81,49,4 School Lane,Omaha,Nebraska,d11be86cf7d9409d68f1c712ba88170f,1/28/2017
+Shane Simkins,Department B,$47.33,29,51917 Chive Center,Memphis,Tennessee,54743cd1514c52983f01d9427525d57f,12/27/2016
+Gothart Whimpenny,Department C,$98.08,14,65 Coleman Center,Roanoke,Virginia,0dfaac99fae4893246fe8941d90263ab,1/16/2016
+Chad Yeatman,Department A,$69.59,49,54860 Toban Center,Lehigh Acres,Florida,481464272db933919c7dfc46de75a82a,2/9/2016
+Zaneta Delmage,Department B,$56.94,90,921 Vidon Hill,Scranton,Pennsylvania,12140e4d268411a0c907abca24c9253f,4/11/2016
+Celestyna Erskine,Department C,$90.31,30,97 Lillian Parkway,San Diego,California,c72acfdf477fb2878285ad78a103cdf7,1/2/2016
+Bartholemy Kment,Department B,$89.49,93,2466 Atwood Terrace,Colorado Springs,Colorado,c081ef53c03e62019a3eeffcaaf7af06,2/27/2017
+Powell Amorts,Department B,$57.99,7,5507 Grayhawk Crossing,San Diego,California,6e4f139b25e1c80e67e72acf0d129ff2,3/16/2016
+Shena Reeson,Department B,$92.57,41,48 Holmberg Way,Annapolis,Maryland,adc258f4e9c59f83b57d04266145d243,5/23/2017
+Powell Amorts,Department B,$93.61,56,2 Cherokee Court,Columbus,Ohio,1a50ef91d111b2ebf027f91b7818513f,8/5/2016
+Gothart Whimpenny,Department C,$23.04,37,54 Tennessee Street,Nashville,Tennessee,358fce01fc3a476b11c05fce11023563,3/26/2017
+Ortensia Le,Department C,$41.20,17,79 Susan Way,Honolulu,Hawaii,841f8fbceb2bf35d37cc55305a58da79,4/17/2017
+Bartholemy Kment,Department B,$93.40,76,5 Burrows Court,Boynton Beach,Florida,ad81f4b285cd1b9206ab5c0151146a8e,10/8/2016
+Rutherford Kermath,Department D,$17.10,81,216 Amoth Alley,Roanoke,Virginia,ef19c669c74081444f4de35a473e5f11,8/28/2017
+Rutherford Kermath,Department D,$39.69,53,190 Almo Point,Vancouver,Washington,cb8e48f16e5ab7eee42139f1a1fcf88d,6/6/2016
+Ignacio Arpur,Department A,$35.80,64,45205 Corry Place,Naples,Florida,ccc75dd6c566911c76a161b4936d54ce,5/25/2016
+Jacquette Oakley,Department C,$13.98,18,49136 Surrey Circle,Stockton,California,7bd6cb3acbc5033dd3211acf862ac93b,8/20/2016
+Brear Fairs,Department D,$88.27,1,0660 Oak Valley Lane,San Antonio,Texas,6340ab8073ae7f74df0834f7f985ab24,9/2/2016
+Powell Amorts,Department B,$40.31,58,5084 Almo Circle,Gaithersburg,Maryland,a0e302d408fd3d50612c5b040ddf2104,5/26/2016
+Ignacio Arpur,Department A,$94.92,48,35485 Duke Lane,Saint Paul,Minnesota,b712ccd85ffdd21e8c03a135ceb1ce3d,2/22/2016
+Ashleigh Baudinot,Department D,$65.46,22,0 Forest Dale Circle,Lancaster,Pennsylvania,f958516b5fae61a28ecba3247075e4c8,4/2/2016
+Jacquette Oakley,Department C,$41.84,20,4 Macpherson Point,Columbus,Ohio,842dc0bc8171454d00aed2d42805767e,2/10/2017
+Zebedee Kedge,Department A,$87.71,92,36352 Kingsford Terrace,Homestead,Florida,ab59175a4ab901c59721c2abd1e988c9,6/4/2017
+Krystle Boothe,Department D,$5.20,81,9 Shopko Crossing,Hartford,Connecticut,d237a5230c0802b6b3870fb3fc8b6c18,9/5/2016
+Brear Fairs,Department D,$22.05,28,9 Mayer Pass,Orlando,Florida,c1cd9face9c1f41bd17dd25d3cce61f3,1/31/2017
+Krystle Boothe,Department D,$65.36,6,2 Coolidge Point,New Orleans,Louisiana,24333c8767790de421ee12dbacd461d5,3/25/2016
+Zaneta Delmage,Department B,$71.42,54,2254 1st Center,Phoenix,Arizona,afb81ee7dd00ba1170161334b90fea4b,3/20/2017
+Rutherford Kermath,Department D,$93.30,34,6 6th Plaza,Peoria,Arizona,365eebc65bb1475cfd766c3803fcbc89,3/19/2017
+Bartholemy Kment,Department B,$70.01,78,68 Commercial Junction,Buffalo,New York,32efe78a5f50b21744ed811ac631d034,2/9/2016
+Brear Fairs,Department D,$88.88,56,3337 Alpine Crossing,Long Beach,California,1cd1db79dd4cba99346f64d92fa280d0,3/12/2017
+Jacquette Oakley,Department C,$46.57,49,303 Golf Junction,Bozeman,Montana,74977e0a43aed4b59724559ba8706021,7/12/2016
+Nell Lindup,Department C,$60.00,20,85 Pennsylvania Circle,Raleigh,North Carolina,a0a4354bad8d22a5bea55e8321c11169,3/15/2016
+Zebedee Kedge,Department A,$42.05,88,4933 Shopko Trail,Sacramento,California,f9db2787dc62c23e3fc078b0127711dd,11/2/2016
+Bartholemy Kment,Department B,$15.80,85,45 Jenifer Parkway,Reno,Nevada,01fce16582f9e2b8ba65392937d61d5c,10/5/2016
+Modesty Berringer,Department D,$65.86,98,57478 Golf Course Park,Henderson,Nevada,71771b64e859eb0f71f66a188741baa1,10/14/2016
+Celestyna Erskine,Department C,$65.34,6,362 Corben Hill,Miami,Florida,e4f5d59c1081df2b9c09a27bb0e19021,8/27/2017
+Zebedee Kedge,Department A,$90.48,49,8 Hollow Ridge Place,Louisville,Kentucky,37b4c08839874261ff8a1431552899f1,12/12/2016
+Ortensia Le,Department C,$76.35,26,48 Dennis Circle,Inglewood,California,2aa50b12042050c6c1ba8891424b5122,2/1/2017
+Rutherford Kermath,Department D,$11.42,91,87687 Waywood Park,Stamford,Connecticut,5c24da6214e7c9047496de7cd87c2695,4/13/2016
+Zaneta Delmage,Department B,$76.89,99,8 Rigney Drive,Kansas City,Missouri,750f42b0386854a97804f7fbe60ba8d0,3/12/2017
+Jacquette Oakley,Department C,$81.74,37,169 Badeau Pass,Little Rock,Arkansas,a3ff2ce7d97f076fee7550809cb176cb,6/18/2016
+Jacquette Oakley,Department C,$55.56,42,8 Green Ridge Avenue,Vancouver,Washington,dcc36193139f3763d55d4a0eae9027d0,4/5/2017
+,,,75,65 Grasskamp Terrace,Saint Petersburg,Florida,69dad461f886acec18d1d0fb142ab520,7/4/2016
+Modesty Berringer,Department D,$77.07,78,668 Erie Hill,Denver,Colorado,8228b58feb10ed4b2879f0d6daff0dc7,11/25/2016
+Nell Lindup,Department C,$59.29,77,53139 Porter Hill,Hartford,Connecticut,9bbf001e84eddd4aa1441bc4dc233062,7/11/2017
+Celestyna Erskine,Department C,$82.86,71,1553 Melrose Terrace,Oklahoma City,Oklahoma,a49b6e6edba80c6449da1d16553c3944,5/9/2017
+Jacquette Oakley,Department C,$54.70,11,39 Washington Road,Garland,Texas,623481f0b3ecd00be6627c7291a07faf,3/29/2017
+Shena Reeson,Department B,$89.97,100,9086 Lakewood Park,Colorado Springs,Colorado,dde4fe12d4229639e533b86ecd62f7e9,8/27/2017
+Dallas Le,Department B,$72.93,46,7648 Hoffman Center,New York City,New York,32c58b9f3b5acb2dfd19d2775b3ef4c7,6/12/2017
+,,,71,9880 Northland Point,Norfolk,Virginia,074375e1e28de1b377ad1153eda3e9ba,3/14/2016
+Brear Fairs,Department D,$31.61,100,97685 Columbus Center,Warren,Ohio,2c96f02f652e3e3253d10dac5cdebe64,5/2/2017
+Krystle Boothe,Department D,$49.23,4,07 Longview Junction,Bakersfield,California,244258794d24715c6275010eea33b560,4/16/2017
+Atlante Harower,Department D,$8.43,61,67 Main Avenue,Longview,Texas,bfd6a01a89fff5ac908a460ca9b71aea,4/11/2016
+Ortensia Le,Department C,$4.11,28,04 Delaware Place,Nashville,Tennessee,9ef778551bc2fd21a0d7ee7f964be717,5/13/2017
+Ortensia Le,Department C,$94.08,50,2166 Grover Plaza,Albany,New York,4147de93171d6e9f4180b8e6f54bec9b,12/29/2016
+Chad Yeatman,Department A,$46.90,50,90 Rockefeller Place,Vancouver,Washington,47153c2ef5ef010cd3adb6c8a3687020,7/18/2017
+Dallas Le,Department B,$15.90,59,42389 Esker Way,Tampa,Florida,3794fb43e197b245fd5c148bc7cee1b4,4/30/2016
+Nell Lindup,Department C,$14.51,87,6568 Magdeline Circle,Atlanta,Georgia,fdccd713dec0f0f1db5ffd6fffc7e368,5/28/2016
+Ashleigh Baudinot,Department D,$81.81,10,502 Sunfield Trail,Miami,Florida,fe653b3a6e5c0c2a8e9cabc3b5b7c8f1,9/21/2016
+Zaneta Delmage,Department B,$88.59,8,7 Clemons Alley,Lexington,Kentucky,ea5beb5e5927f065d9adee33bed6a912,8/10/2016
+Modesty Berringer,Department D,$62.43,95,31 Trailsway Junction,Washington,District of Columbia,3315a38be1fa589719b93859b73eaf20,6/22/2016
+Chad Yeatman,Department A,$7.05,18,699 Caliangt Alley,Simi Valley,California,5ce24d1203aa060e9676483cba1b475e,3/14/2016
+Modesty Berringer,Department D,$39.36,41,62019 Southridge Road,Birmingham,Alabama,db35c093e45ffd16d979738bdee2e9d1,5/7/2016
+Nell Lindup,Department C,$19.69,7,9 West Way,Naples,Florida,b68223447b77921a84bbb1b2836671be,2/28/2016
+Shane Simkins,Department B,$95.73,45,88698 Lien Park,Oklahoma City,Oklahoma,4da9aad672221ccd6f2bf8e393c4fa33,6/14/2016
+Rutherford Kermath,Department D,$1.36,32,4 Moulton Plaza,El Paso,Texas,f90b49c048ddcd31fa7148f7e008e13a,11/9/2016
+Atlante Harower,Department D,$53.82,59,1538 Manufacturers Drive,Detroit,Michigan,0cfbbe6a02e42443c7f3771c01c528f9,7/9/2016
+Gothart Whimpenny,Department C,$51.08,53,179 Amoth Center,Cleveland,Ohio,d8bafc4406ad22bfa84bc0236d9575b1,7/18/2017
+Chad Yeatman,Department A,$58.19,20,009 Pleasure Way,Phoenix,Arizona,c7e67743b85eebeadcbe94bf8d537249,8/20/2016
+Bartholemy Kment,Department B,$94.65,67,0 Weeping Birch Drive,Indianapolis,Indiana,723795edf1839922f62d8d8f15044762,7/31/2016
+Ashleigh Baudinot,Department D,$55.82,7,17 Dapin Crossing,Bronx,New York,210ec62d1420fb35117b65d62342478b,11/14/2016
+Brear Fairs,Department D,$95.61,46,8 Magdeline Alley,Richmond,Virginia,ee0761f6c78462c934602782e61d4320,4/26/2017
+Ashleigh Baudinot,Department D,$4.92,49,6810 Reinke Street,Charleston,West Virginia,092134410ad89f2552e913c01071dd68,2/10/2016
+,,,59,8 3rd Park,Indianapolis,Indiana,de6ca0e8785b23590c603d9e1d7c84df,7/22/2016
+Jacquette Oakley,Department C,$97.49,8,597 Michigan Parkway,Shawnee Mission,Kansas,a634cf638588036517b0d86f476a3f95,3/13/2016
+Rutherford Kermath,Department D,$57.23,28,42 Dapin Hill,Phoenix,Arizona,e0940eb11d2600b629fad619b5b2663f,6/1/2017
+Rutherford Kermath,Department D,$18.62,59,2390 Lotheville Hill,Louisville,Kentucky,c4c735fa60b7f7b7186b5cc3aa575c78,8/28/2016
+Ignacio Arpur,Department A,$97.53,91,84462 Dovetail Crossing,Reading,Pennsylvania,7e1673ede4b9b1f8440c6eb423ec66cc,8/16/2017
+Zaneta Delmage,Department B,$72.39,4,71 Straubel Lane,Albany,Georgia,4978e074de61840a89a3eac6db7fd2fb,3/2/2017
+Atlante Harower,Department D,$31.49,74,4150 Menomonie Crossing,Oklahoma City,Oklahoma,cd1c007389ccfde92f04f008137e916a,1/3/2016
+Jacquette Oakley,Department C,$55.19,17,4298 International Park,Alhambra,California,1909f6f29ba1944ed40bf8dfb4f72366,1/9/2017
+Ortensia Le,Department C,$50.51,98,65 South Hill,Atlanta,Georgia,dd8fb7f4c513c6356bdc28cc040ed5eb,2/13/2017
+Celestyna Erskine,Department C,$18.75,36,518 Esch Trail,Knoxville,Tennessee,ac9a3ebe0f6600391eb85604709fc947,2/26/2017
+Rutherford Kermath,Department D,$6.65,24,33 Riverside Avenue,San Diego,California,d6260bf5f205cf3624fde7b2e728c1f5,12/13/2016
+Ignacio Arpur,Department A,$49.67,13,5613 Hoard Point,Fort Collins,Colorado,34e9e3f7fa47c93bf048f3b96ae621c1,10/13/2016
+Brear Fairs,Department D,$19.40,17,9 Crescent Oaks Crossing,Vero Beach,Florida,90515eb4bb9048d42a3e4d2ed43178f6,11/4/2016
+Atlante Harower,Department D,$21.15,74,14 Columbus Drive,Silver Spring,Maryland,93c48dfc0a27cbace00dc8e85775f1eb,8/24/2016
+Rutherford Kermath,Department D,$94.65,13,2941 Morningstar Avenue,Indianapolis,Indiana,5914aceb2d9213ba6f616d2d62e98bbd,1/7/2016
+Shena Reeson,Department B,$15.87,56,530 Graedel Junction,Corona,California,5f4b63804eb74183e112eb2d20ae043d,3/21/2017
+Dallas Le,Department B,$94.05,100,40 Charing Cross Lane,Topeka,Kansas,13a208bc3f01e03ab8b84aceb4ae4ccc,5/14/2016
+,,,87,25414 Glacier Hill Center,Omaha,Nebraska,7cb418a458de153ee8a7f934e319bc73,1/17/2017
+Zebedee Kedge,Department A,$11.78,92,263 Banding Terrace,Brooklyn,New York,2f532d89b7f62f15475374df4d617970,11/9/2016
+Ignacio Arpur,Department A,$37.30,37,1 Acker Crossing,Beaumont,Texas,bdb6269189c86195b9867b92c3e79b48,9/1/2016
+Gothart Whimpenny,Department C,$4.90,3,88 Lerdahl Point,Albany,New York,5d7e7adfa8214f701a48f7b6c59e1139,4/29/2016
+,,,20,6 Portage Point,Colorado Springs,Colorado,9d9b75299666b1ce26e98fc6db4d8f50,1/2/2017
+Celestyna Erskine,Department C,$84.71,88,00743 Sullivan Parkway,Canton,Ohio,fef4be1cd6c93d64afbb34592f2b62b8,3/23/2017
+Linn Becerra,Department B,$53.07,16,47950 Mandrake Circle,New York City,New York,97f30ca625aad12d6810a184f5745b3e,8/19/2017
+Atlante Harower,Department D,$1.80,77,285 Independence Alley,Pueblo,Colorado,3b8d54b44236252b36925528390b2ab1,2/28/2017
+Linn Becerra,Department B,$13.31,6,777 Bashford Terrace,Portland,Oregon,7287083b7f1fb7dbe8d3557b6f23d2c1,3/11/2016
+Nell Lindup,Department C,$64.78,51,0157 Canary Avenue,Mobile,Alabama,06fdd901774023f7934cb8645720f222,7/12/2017
+Rutherford Kermath,Department D,$23.75,13,5 4th Circle,Tacoma,Washington,aeac870f7639981c2d5a086de9d72e84,7/8/2016
+Modesty Berringer,Department D,$69.08,78,9 Melvin Road,Honolulu,Hawaii,c55a66fc4846805d910762647084848a,2/24/2017
+Atlante Harower,Department D,$52.47,81,48 Meadow Ridge Avenue,Fort Worth,Texas,44896d1845515c8a7bd33646f5d24d7c,12/7/2016
+Krystle Boothe,Department D,$85.79,95,36306 Loftsgordon Way,Irvine,California,611dcbb597c804de8103c4b3b2b20c72,6/20/2017
+Gothart Whimpenny,Department C,$13.33,10,717 Memorial Parkway,Humble,Texas,fe51961669afc08cb9ba68e0a4e30c78,12/18/2016
+Ignacio Arpur,Department A,$56.64,11,52447 David Center,Fort Lauderdale,Florida,f572e3a1122df9d9d31467514d7d789b,12/8/2016
+Linn Becerra,Department B,$1.13,85,6686 Bowman Park,Silver Spring,Maryland,8886a463ad37df2462bfb167bda8c071,5/3/2017
+Powell Amorts,Department B,$67.36,25,0907 Utah Alley,Beaumont,Texas,601ea8414713995222f0288fc2ca4130,6/10/2017
+Gothart Whimpenny,Department C,$67.88,44,585 Emmet Place,Fayetteville,North Carolina,c42e85cb32ec170615a2c59c741773ab,7/18/2016
+Brear Fairs,Department D,$42.68,27,84 Sherman Court,Hattiesburg,Mississippi,6fcbede656435ba92f8b13c45ef24ea0,4/19/2016
+Modesty Berringer,Department D,$48.75,56,36509 Schlimgen Alley,Saint Paul,Minnesota,84c6606fd04bcc02ebc7ce0d54beb28d,1/31/2017
+Gothart Whimpenny,Department C,$71.17,43,23 Messerschmidt Terrace,Des Moines,Iowa,9ae1421ce68cd7b83b55ada235ee5910,9/25/2016
+Jacquette Oakley,Department C,$24.43,55,706 Artisan Terrace,Kansas City,Missouri,b295b57fb24d9e1bebf20d9ba7921a2d,4/12/2016
+Powell Amorts,Department B,$83.47,46,9344 Oakridge Alley,Loretto,Minnesota,ff2c94f6d79b691dede88d9354effd29,8/18/2017
+Ignacio Arpur,Department A,$27.26,96,8691 Graceland Terrace,Utica,New York,074c1661c283b9198754b11c98c797ff,7/1/2016
+Ortensia Le,Department C,$83.44,18,3 Kedzie Avenue,Carol Stream,Illinois,bca45b9952f834eb5a895a4b2e2c8642,11/28/2016
+Shane Simkins,Department B,$48.83,10,2 Forest Run Parkway,Galveston,Texas,3df125040efacf28635e8d16e7ccbb64,5/19/2017
+Chad Yeatman,Department A,$7.36,70,5204 Sutherland Junction,Houston,Texas,308c5f15fdb31db2c4cf996b63d49c5e,4/2/2016
+Rutherford Kermath,Department D,$39.83,28,67 Kenwood Circle,Iowa City,Iowa,0f575ba6205fd1aad647c4658da6b318,1/4/2016
+Linn Becerra,Department B,$94.38,69,18577 Mifflin Lane,Richmond,California,59df768c518dfbb2ead8291a0cb30d27,1/9/2016
+Celestyna Erskine,Department C,$78.90,99,28420 Melby Center,New Orleans,Louisiana,f1593938260268644c51345902d38532,7/29/2016
+Bartholemy Kment,Department B,$50.33,90,07835 Nova Parkway,Washington,District of Columbia,2f3bf8d928d195db4b6cbb3a44e3d5d7,8/16/2017
+Bartholemy Kment,Department B,$17.59,34,83 Kim Junction,Akron,Ohio,5252580536864a651b2ef03d5a62cc4d,10/20/2016
+Shane Simkins,Department B,$58.04,89,951 Meadow Vale Drive,Tulsa,Oklahoma,b19c33019498e9a49ca59b2916335004,12/15/2016
+Powell Amorts,Department B,$49.51,74,95867 Cherokee Parkway,Dallas,Texas,cc23f8be6afb3d5fb89799fa5b15aa72,4/10/2017
+Shena Reeson,Department B,$29.39,45,49863 Burrows Center,Reno,Nevada,a1eae12cdc82260832e6cb9f29789e9d,11/15/2016
+Nell Lindup,Department C,$36.98,6,6 Briar Crest Hill,Atlanta,Georgia,08567f73ca422ef7e9a15fc35e2ac784,3/21/2017
+Zaneta Delmage,Department B,$71.91,55,788 Sheridan Junction,Shreveport,Louisiana,e91adb7206f426c0ba4246cc8dceac37,2/23/2017
+Ortensia Le,Department C,$83.13,52,5 Vernon Circle,Newark,New Jersey,5be0d3aa0fa296cbd07717f073c25cc8,6/16/2017
+Powell Amorts,Department B,$59.49,74,7423 Dapin Pass,Lexington,Kentucky,13c49b100059d0df65fa5573bb6172ee,5/22/2017
+Bartholemy Kment,Department B,$8.45,38,33207 Meadow Ridge Center,Los Angeles,California,8082b6477ae3ebcf98674f58308f8fb4,11/9/2016
+Chad Yeatman,Department A,$66.51,7,5555 Nevada Crossing,Waco,Texas,69cd9cb5be2c264c0e6e254e88539397,5/7/2016
+Linn Becerra,Department B,$99.70,19,96300 Fairfield Avenue,Austin,Texas,1db203c27b44481a2c0c5836b67a5e3e,8/20/2016
+Krystle Boothe,Department D,$72.26,50,1 Esker Court,Miami,Florida,67fbb1b9036ff92adbc594ef6774daa1,2/21/2017
+Dallas Le,Department B,$23.09,51,60144 Ridgeway Way,Silver Spring,Maryland,17db9e73a899fafdedb80b9d4f67a7f8,4/25/2016
+Bartholemy Kment,Department B,$51.25,50,0402 Warrior Road,Phoenix,Arizona,3adcc1b6832227e8d174f0714d367e52,3/14/2017
+Ignacio Arpur,Department A,$91.58,5,8074 Chinook Plaza,New Orleans,Louisiana,2166565c800bee6565e869740a250be0,4/21/2016
+Rutherford Kermath,Department D,$51.96,87,378 Northfield Crossing,Winston Salem,North Carolina,16f10e4189f87ec98108be7e6c3ad122,3/5/2016
+Rutherford Kermath,Department D,$78.20,31,2700 Sycamore Trail,Oklahoma City,Oklahoma,f3ab6cc326ec24973fba26cbcbb320c7,4/6/2017
+Chad Yeatman,Department A,$79.12,3,13484 Tony Terrace,Milwaukee,Wisconsin,8e3db21abca83959b59076978577e707,5/29/2017
+Powell Amorts,Department B,$8.89,24,1024 Jay Hill,Las Vegas,Nevada,baab4c783c92ce72c46d54b7df53a728,4/7/2017
+Ortensia Le,Department C,$40.83,33,16 Namekagon Court,Dearborn,Michigan,7b17b4d17dfa0450951682a9e509762a,5/5/2017
+Atlante Harower,Department D,$16.55,28,95 Carioca Alley,Alexandria,Virginia,885a2a133aecc20705405e4038a67fcd,8/3/2016
+Shena Reeson,Department B,$95.38,30,00534 Dakota Street,San Antonio,Texas,023c85a18eb2b70af40948cfa48359e9,3/31/2017
+Krystle Boothe,Department D,$82.30,13,70 Fremont Trail,Young America,Minnesota,ff4c4400829ee2c8efbeb7b12c262502,7/9/2017
+Atlante Harower,Department D,$38.96,94,0641 Northridge Place,Fort Wayne,Indiana,541e1884584ac127094ee57abfe22cea,8/31/2016
+Shane Simkins,Department B,$48.23,44,1942 Ruskin Avenue,Salt Lake City,Utah,6cb43e500ac59d6eacde44f0a673b3bf,7/21/2017
+Krystle Boothe,Department D,$89.81,66,0 Maple Wood Parkway,Seattle,Washington,428bc63293a460501a9d42d1fc82dbfa,10/5/2016
+Rutherford Kermath,Department D,$17.95,5,98690 Carberry Parkway,Las Vegas,Nevada,e2514c992a7fd1bb4da9a3d25ff84a5c,1/4/2017
+Dallas Le,Department B,$32.13,3,1 Reinke Drive,Worcester,Massachusetts,b275e27ca70efc792c00036a4e44a45f,9/16/2016
+Zebedee Kedge,Department A,$77.94,20,31 Huxley Trail,Salt Lake City,Utah,9cb12d1a2113032a7d64bae2921349f4,7/5/2017
+,,,65,03324 Golf Course Lane,Washington,District of Columbia,58169a9b469ea02b6cf9d2f2a7206b44,12/16/2016
+Celestyna Erskine,Department C,$61.23,30,405 Blackbird Avenue,Santa Barbara,California,b3e4d92ca3539be1c2d9702c55a332a0,2/6/2017
+Atlante Harower,Department D,$53.51,79,86501 Harbort Terrace,Denver,Colorado,12097501504a08a7e2065c405fb2451b,6/9/2017
+Chad Yeatman,Department A,$97.99,45,7 Sycamore Circle,Savannah,Georgia,533d9ac8806b0cf309bf64abaffb93e3,4/20/2016
+Brear Fairs,Department D,$79.56,53,9 Mockingbird Circle,Kingsport,Tennessee,5458f74b5b6e8ba9e47c67d81f4c54df,5/3/2016
+Shena Reeson,Department B,$18.58,51,6207 Jay Avenue,Kansas City,Missouri,b67e88e586a9d0897bb37cad25c57623,4/1/2017
+Ortensia Le,Department C,$19.83,26,2 Debs Plaza,Chesapeake,Virginia,955567ab78a7bddd7acb4b8ec08ac920,11/20/2016
+Chad Yeatman,Department A,$29.55,76,94504 Luster Hill,San Jose,California,40e21cee9114cf28a9a31d4da1740b4c,7/13/2016
+Jacquette Oakley,Department C,$43.84,67,691 Washington Terrace,Mesa,Arizona,e80eea4b2163907b9d8fdad642e8b9e1,1/7/2017
+Powell Amorts,Department B,$57.37,69,08 Warbler Road,Irving,Texas,2df7e78f4f074320289a36819410b048,6/28/2017
+Rutherford Kermath,Department D,$92.44,81,9 Park Meadow Circle,Houston,Texas,276c3951fd5d3e075a69e981557b00e1,3/16/2017
+Dallas Le,Department B,$44.76,84,6869 Di Loreto Avenue,Odessa,Texas,c258df8bc66f6bee465c72405bbd968f,2/10/2017
+Ortensia Le,Department C,$0.36,16,2860 Steensland Terrace,Miami,Florida,574ae312b0e04a7e44f547472b6e7d41,11/9/2016
+Celestyna Erskine,Department C,$54.96,94,27 Mayfield Pass,Washington,District of Columbia,0ae9e9ec45bddd9686d26aa95cce9305,7/31/2017
+Ignacio Arpur,Department A,$39.43,69,94 Cardinal Hill,Seattle,Washington,e0bf4a83aa0a2daa89174d2fcc557976,9/19/2016
+Celestyna Erskine,Department C,$54.91,66,0607 Northview Street,Englewood,Colorado,de30a30ef51b904b59b02eabfe6b5c11,3/23/2017
+Ashleigh Baudinot,Department D,$94.51,98,7 Coolidge Drive,Trenton,New Jersey,273d4e0265d2cc9c9e5c3c368bd42002,4/20/2016
+Modesty Berringer,Department D,$41.12,67,442 Lakewood Lane,Dallas,Texas,cf72a9684a79d6ec32e9a33351bf3254,7/28/2016
+Jacquette Oakley,Department C,$84.71,4,56 Carpenter Crossing,Akron,Ohio,c760a950f8361bc5b4e7130e0a252c1b,3/12/2017
+Chad Yeatman,Department A,$23.21,65,1 Hayes Drive,San Mateo,California,a86c8421d674b3fe3be2a2c400c3f14f,3/31/2017
+Powell Amorts,Department B,$43.35,74,283 Coleman Place,Pueblo,Colorado,1f52ecdafebea277f17505b23a97f063,7/26/2017
+Zaneta Delmage,Department B,$92.87,45,6 Rieder Parkway,Santa Barbara,California,bbd4afc254295079131ff26b70fb4174,4/23/2016
+Jacquette Oakley,Department C,$90.58,51,8 Di Loreto Avenue,Lexington,Kentucky,b1a42cc52fdf40db617872f0f8580abc,5/29/2017
+Brear Fairs,Department D,$11.93,78,95628 Twin Pines Road,Lubbock,Texas,0d8590f29b6c2dded06628d80d1b81f6,3/17/2016
+Brear Fairs,Department D,$99.17,8,1 Atwood Plaza,Syracuse,New York,ab6458ef6c77fbc197541a7d995e594d,9/6/2016
+Shane Simkins,Department B,$20.43,26,8826 Nelson Plaza,Trenton,New Jersey,43e96c1411242bb5453fbf84dedede27,7/25/2016
+Celestyna Erskine,Department C,$39.99,100,9096 Michigan Court,Boise,Idaho,d07d102527e4fdc34e487d9687d826bd,7/11/2016
+Powell Amorts,Department B,$82.88,23,1868 Fisk Court,Milwaukee,Wisconsin,c0c96b704197764c1e7d270d4bf490a9,12/8/2016
+Zaneta Delmage,Department B,$25.28,47,9 Grover Place,Fort Wayne,Indiana,c81027684c8084e93780d56c9d9079c3,6/7/2016
+Dallas Le,Department B,$16.14,11,407 Summit Parkway,Houston,Texas,42a4eb04ab1132b03be57eab0766c51f,1/20/2016
+Ignacio Arpur,Department A,$65.61,35,136 Cordelia Avenue,Columbia,South Carolina,e69de7f50e146b9197e6da5f4af7a18f,7/1/2017
+Dallas Le,Department B,$78.23,41,29 Macpherson Junction,South Bend,Indiana,93b3984bc3d32dab437fbf4ee9b40904,7/20/2017
+Zebedee Kedge,Department A,$68.83,71,5 Gateway Pass,Santa Ana,California,09561e6b0984a774ec8a817d8ded3591,7/20/2017
+Zebedee Kedge,Department A,$40.20,5,51 Gina Court,Garden Grove,California,30e13b8f981d5333146420a754f48ed1,8/4/2017
+Brear Fairs,Department D,$15.05,32,6 Mesta Alley,Lake Worth,Florida,42d0cf868533c4974f733192aff5a9a9,3/12/2016
+Jacquette Oakley,Department C,$79.66,70,7 Talmadge Circle,Clearwater,Florida,a521d1bff511fa0a87f80f32be40cad9,2/22/2017
+Zaneta Delmage,Department B,$77.72,21,82 Larry Hill,Baton Rouge,Louisiana,38128da415f7d2cd825d2bdb586aacaf,12/29/2016
+Ignacio Arpur,Department A,$96.95,60,3793 Westport Junction,Seattle,Washington,3f1fa3cbbde3aed10727ff623f9ebd72,8/15/2016
+Chad Yeatman,Department A,$60.84,87,3246 Weeping Birch Plaza,Inglewood,California,9d967c0d87bd4b5147d920cefc55fc4f,1/2/2016
+Celestyna Erskine,Department C,$83.94,2,81676 Londonderry Point,Atlanta,Georgia,a2dcd9e82ebfeb11531c5eb1c4fe768d,9/14/2016
+Atlante Harower,Department D,$44.82,76,73470 Iowa Parkway,Philadelphia,Pennsylvania,73049313754ecb55b13c82acf3a179ea,6/18/2016
+Atlante Harower,Department D,$19.59,70,63629 Bayside Terrace,Austin,Texas,e3a8034d1fc36bb01d19f2806b6ad080,11/12/2016
+Ignacio Arpur,Department A,$48.94,45,6483 Boyd Avenue,Atlanta,Georgia,438fcda83ec563b7b2da5d3d4d794d41,10/19/2016
+Modesty Berringer,Department D,$58.50,74,92902 Kropf Junction,Long Beach,California,170895b7088c30ea2bcfb3fbcb10bee1,1/1/2017
+Ashleigh Baudinot,Department D,$4.10,76,51 Lindbergh Court,Tulsa,Oklahoma,1dc12486b2e41ac0bfc984d97acdf2f7,2/15/2017
+Nell Lindup,Department C,$45.85,34,03 Atwood Park,Wichita,Kansas,767c1fb6c5c1f885e53a36fa000e25de,9/9/2016
+Krystle Boothe,Department D,$95.67,48,62556 Banding Way,Kansas City,Missouri,fed093bbb9211d08e5e6bea433eeb31f,12/22/2016
+Modesty Berringer,Department D,$76.09,38,191 Summit Street,Huntsville,Alabama,1f07c28bf43e84cf09ca1c97b54eaeba,7/23/2017
+Powell Amorts,Department B,$14.89,9,3 Messerschmidt Way,Pittsburgh,Pennsylvania,4f9e4f5ae172d268c8becf3f5e584c19,4/12/2016
+Linn Becerra,Department B,$13.83,85,972 Mendota Hill,Dayton,Ohio,a436a12f8e182b91b0361c37cfbbe790,4/17/2016
+Brear Fairs,Department D,$50.61,88,78 Sachs Trail,Lakeland,Florida,dbfa64da32b290ff6afecda5dd6025f1,6/18/2017
+Modesty Berringer,Department D,$71.98,60,265 Grim Park,Salt Lake City,Utah,558484e89f1d1589a970d3658548d766,8/12/2016
+Linn Becerra,Department B,$6.85,21,65783 Everett Pass,Corona,California,26cbe9c51ad717ec8c00c83739d58009,4/14/2017
+Zebedee Kedge,Department A,$86.00,97,269 Crownhardt Trail,Springfield,Missouri,1fe65f63ca9602049b2e9b974f991e1a,1/16/2017
+Bartholemy Kment,Department B,$56.16,55,589 Pearson Plaza,Pittsburgh,Pennsylvania,9fcfd0b71af5fdaa2f0800b0d1123356,2/5/2017
+Zaneta Delmage,Department B,$25.72,96,7051 Spenser Pass,Miami,Florida,f63b3d19d11a3bb35501ba95dc2dc5c2,6/7/2016
+Celestyna Erskine,Department C,$49.27,20,64162 Oak Point,Houston,Texas,52ed897f7541fcf5a87635ca5f405fba,3/1/2016
+Ortensia Le,Department C,$46.06,70,1 Del Sol Plaza,Las Vegas,Nevada,da8f186f28d114e1bf58818585fa7167,12/2/2016
+Chad Yeatman,Department A,$74.00,34,31 Ramsey Terrace,Las Vegas,Nevada,40dea2524a7c5afabeeee9a3cd1eb375,9/22/2016
+Ortensia Le,Department C,$69.15,28,71 Surrey Trail,Tallahassee,Florida,838c6effd1e816d5aa2315793950b842,5/2/2017
+Brear Fairs,Department D,$66.96,57,015 Welch Drive,Bridgeport,Connecticut,7de5eda4180749cecd53a963ebe39f82,1/23/2017
+Ashleigh Baudinot,Department D,$30.43,53,4417 Springview Lane,North Hollywood,California,cd966c9e0ef08f5dbd941cafba308ebe,2/16/2017
+Celestyna Erskine,Department C,$12.78,95,6 Straubel Court,Fort Lauderdale,Florida,948e2efd90f1196eff321fb13ecff684,3/15/2016
+Zaneta Delmage,Department B,$22.40,77,90205 Melvin Place,Winston Salem,North Carolina,1e7948319a9080dec740424f09ca06a6,4/10/2016
+Ortensia Le,Department C,$7.78,85,746 Canary Center,Alpharetta,Georgia,83c5277f71069b594d53532d37dc63f2,9/14/2016
+Gothart Whimpenny,Department C,$98.51,97,99522 Cottonwood Court,Dallas,Texas,c4be8beb15cf18fc575524a355e3573a,7/8/2016
+Krystle Boothe,Department D,$52.14,84,82751 Tennessee Place,Largo,Florida,35e881ff0e23958d40bf15d47de29710,4/17/2017
+Linn Becerra,Department B,$7.75,87,9445 Calypso Junction,Nashville,Tennessee,522c892e5a81fdcef5f63bb7a6803316,8/20/2017
+Ortensia Le,Department C,$59.90,5,5833 Butternut Park,Tampa,Florida,7f6f75773226617a1bb110f7f2687150,4/11/2017
+Atlante Harower,Department D,$48.96,70,1598 Shasta Parkway,Dayton,Ohio,4e5330307582d91cf67277fa4e8792e9,8/13/2016
+Gothart Whimpenny,Department C,$69.20,18,6 Almo Parkway,Dallas,Texas,af65e0ae9883aa0745e2978546e3f0db,1/25/2016
+Gothart Whimpenny,Department C,$50.22,25,248 Longview Terrace,Cleveland,Ohio,3e6dac8201320092e5a7a8b1e02499bb,2/19/2016
+Linn Becerra,Department B,$36.80,92,5 Macpherson Drive,Shreveport,Louisiana,78667df75be09b6d7b3d7503d8feddcb,1/29/2016
+,,,87,2 Pepper Wood Hill,Louisville,Kentucky,7d443a27e5cb37c5f4a86cfa4df15e1f,4/4/2016
+Linn Becerra,Department B,$80.62,43,84846 Spenser Park,Albuquerque,New Mexico,fbb50e63176cb9589e6da4e6e8e18dfc,8/15/2017
+Zaneta Delmage,Department B,$40.30,62,89 Haas Parkway,Portland,Oregon,997e3a850724f1a2ece3170f1bebcce4,3/22/2016
+Brear Fairs,Department D,$34.62,80,035 Victoria Place,Dallas,Texas,0e203eaa070545be68e955cfcff593c2,5/14/2016
+Jacquette Oakley,Department C,$2.77,23,77 Bartillon Alley,Glendale,California,d16d595a6b361b000bae3410b79e4e2d,9/23/2016
+Zebedee Kedge,Department A,$21.59,38,25568 5th Park,Boise,Idaho,7e0b5a38c411fbe652ae90829b6a8b3b,7/18/2017
+Modesty Berringer,Department D,$10.57,38,1537 Bellgrove Place,Portland,Oregon,1d02774963d839747f97f83f6eea32e5,10/19/2016
+Rutherford Kermath,Department D,$29.07,88,6707 Bayside Center,Wichita,Kansas,644e6289cce812de0c550e6fb1a8f02f,8/24/2016
+Celestyna Erskine,Department C,$86.98,36,77519 Troy Junction,Atlanta,Georgia,678e483620a74edb964008260932a97d,8/22/2016
+Brear Fairs,Department D,$51.11,15,5 Hallows Center,Cape Coral,Florida,e403644dfd0db795d0ea83c5cd515c98,6/11/2017
+Dallas Le,Department B,$72.80,28,01 Buell Road,Fort Pierce,Florida,08b22d566d4e8277a3c442c8cc427fe1,2/22/2017
+Celestyna Erskine,Department C,$19.49,53,7928 Little Fleur Crossing,Huntington,West Virginia,f07a96bdbe75797ddd2bf3d35612924a,10/23/2016
+Ignacio Arpur,Department A,$14.43,16,19733 Grasskamp Way,Seattle,Washington,177b5cc31bb8ed32899ad0ea3b376e58,12/28/2016
+Bartholemy Kment,Department B,$83.04,65,5 West Circle,Pasadena,California,22a8bbab48b57f611aab60401cd4c973,3/18/2017
+Ortensia Le,Department C,$67.27,9,78 Utah Trail,Lubbock,Texas,ea6f1781f0f4eda3f95e42a23415105b,4/3/2017
+Modesty Berringer,Department D,$53.71,9,76689 Prairieview Center,Washington,District of Columbia,b2bc6587b604c25fb5d6164f05064814,9/2/2016
+Nell Lindup,Department C,$74.74,80,1 Cody Plaza,Daytona Beach,Florida,94db4c6fe9bea666fbe86c0198125391,1/25/2017
+Bartholemy Kment,Department B,$96.59,13,73189 Sommers Place,Peoria,Illinois,b4b2198c235a21d242e9a1b30961ce1a,11/13/2016
+Krystle Boothe,Department D,$24.99,69,2094 Gulseth Road,Paterson,New Jersey,5ab98e52d41fcd53365187753176e738,6/17/2016
+Chad Yeatman,Department A,$32.55,44,5 Eliot Alley,Phoenix,Arizona,723736d40a47aa077c28b4b9e50a98c7,5/22/2016
+Ortensia Le,Department C,$43.94,58,93 Macpherson Street,San Bernardino,California,19c0d61deee8f4618583d9ef551746f2,4/5/2017
+Ignacio Arpur,Department A,$84.80,94,72679 Ramsey Center,Grand Rapids,Michigan,758dffccb1354041fb6512c8bf7a60db,6/27/2017
+Chad Yeatman,Department A,$89.16,67,886 Cordelia Place,Cleveland,Ohio,a3390ebc7fdd950422f6a8c640a92dfe,7/28/2016
+Atlante Harower,Department D,$9.28,28,3229 Warner Circle,Fort Myers,Florida,018b19e05dbc2ae0683978127c1404e7,4/22/2016
+Dallas Le,Department B,$5.91,10,6 1st Pass,South Bend,Indiana,28951b5841048d386cab9f36a7b97fcd,11/26/2016
+Dallas Le,Department B,$89.94,40,1 Oak Valley Hill,Sioux Falls,South Dakota,3ec833eda6b7994468b15e853733c9c6,1/28/2016
+Rutherford Kermath,Department D,$96.45,16,61365 Merrick Circle,Tyler,Texas,bd887cccbb603553fda95cf6303d26b5,7/1/2016
+Celestyna Erskine,Department C,$72.86,8,32332 Dottie Street,Newark,Delaware,24c48caa0222ba3b8c70712088861cad,12/4/2016
+Powell Amorts,Department B,$37.62,31,9 Mesta Park,Hartford,Connecticut,c0112dd479189a1cf4ce3b0dd448f218,7/14/2017
+Ortensia Le,Department C,$25.86,92,77 Acker Circle,Boulder,Colorado,7f856a56ebd27f03d402fb93e6d6f0f1,3/16/2016
+Zebedee Kedge,Department A,$39.37,71,8261 Monterey Parkway,Sparks,Nevada,0da7051cddf1aea5e52b68c028f28d84,5/4/2017
+Krystle Boothe,Department D,$38.70,91,29811 Brickson Park Avenue,Chicago,Illinois,07155c327ad3417ad29ec61003a28c2c,4/21/2016
+Atlante Harower,Department D,$56.27,48,79 Sloan Pass,Bradenton,Florida,2d94b8d644635ee376c577598280e940,6/2/2017
+Zebedee Kedge,Department A,$11.13,80,686 Pleasure Way,San Diego,California,a6c34e969c52d1a5dcdc5bbaeb7844eb,5/4/2016
+Modesty Berringer,Department D,$74.15,82,0484 Monument Circle,Prescott,Arizona,c423a524bb8601e92d088d9c19a84d1a,7/15/2017
+Chad Yeatman,Department A,$76.86,30,85981 Summerview Terrace,Salt Lake City,Utah,8300ff3c929aebe719422ec4933cb8fb,8/6/2017
+Zebedee Kedge,Department A,$85.88,59,0550 Kedzie Park,Springfield,Massachusetts,41db9d4174a094665dc734e702491ef5,6/6/2016
+Bartholemy Kment,Department B,$92.11,20,910 Karstens Crossing,Orlando,Florida,40e8f4194d9065f2f07675b75a680b7e,7/19/2017
+Linn Becerra,Department B,$21.08,72,766 Elgar Avenue,Austin,Texas,0a23ede3927de39e4b41a549f8a3b70d,9/10/2016
+Chad Yeatman,Department A,$67.54,33,1 Miller Point,Hartford,Connecticut,50af6f6746a54245a25140679df6b98d,10/15/2016
+Shane Simkins,Department B,$62.95,14,6176 Crownhardt Crossing,Miami,Florida,c651bf2be28b578a76536cb806595c4c,1/4/2016
+Bartholemy Kment,Department B,$71.24,71,52894 Eggendart Road,Portland,Oregon,4ad56731ef04a75f8f091d4c1cc9af3a,3/20/2016
+Nell Lindup,Department C,$84.15,36,3 Melrose Way,Washington,District of Columbia,190834cb86e70e0dcbfb9484c32da7f2,1/11/2016
+Gothart Whimpenny,Department C,$70.38,13,8558 Alpine Junction,Van Nuys,California,c8351afefc4bf26d70b3708fa2f8ff1a,7/4/2017
+Shane Simkins,Department B,$72.56,3,6 Portage Drive,Montgomery,Alabama,27eb8524a2903a02aac7624529d96849,4/22/2017
+Powell Amorts,Department B,$35.10,23,1 Gale Way,Pittsburgh,Pennsylvania,5f2206e75b34881edc60261d397921c5,9/17/2016
+Zebedee Kedge,Department A,$56.86,88,7250 Ilene Park,New Haven,Connecticut,f437bd8e974819d1d0e570023b875388,12/8/2016
+Atlante Harower,Department D,$11.26,76,8 Kedzie Plaza,Oakland,California,e7547374360d219d2503a1c44183f9aa,10/24/2016
+Gothart Whimpenny,Department C,$55.71,43,81 Farmco Trail,Columbia,South Carolina,10b0000d5af0f8a6930bd3f504bf6484,4/10/2016
+Zaneta Delmage,Department B,$24.38,79,67722 School Alley,Hayward,California,ff192ddbc400c032c238f552fd1c5f2f,6/18/2017
+Rutherford Kermath,Department D,$46.10,83,282 Annamark Street,Minneapolis,Minnesota,b520307c264a24b47d53e2ac0b0c0ab1,3/24/2017
+Celestyna Erskine,Department C,$29.02,37,727 Monument Trail,Spokane,Washington,5bb300e12b581382a3d2abef45874535,1/28/2017
+Dallas Le,Department B,$45.13,52,8885 Kipling Pass,Philadelphia,Pennsylvania,38640897f49d2f2d945a371e0c471f62,5/15/2016
+Ortensia Le,Department C,$85.84,31,554 Annamark Hill,New York City,New York,8ce4ef1b67251565952b145a52ae173c,1/22/2017
+Shane Simkins,Department B,$61.07,91,2055 Raven Street,Trenton,New Jersey,9cfb4de24d0478192b1849f9d434793e,9/25/2016
+Ortensia Le,Department C,$78.26,75,4 Brown Avenue,San Antonio,Texas,dd39962d7b36efd4c121b42eb6912fec,7/14/2017
+Celestyna Erskine,Department C,$97.80,91,83118 Hoepker Court,Jackson,Mississippi,dc9df6ea869e7a3085c54b11e4ee5a9d,11/8/2016
+Chad Yeatman,Department A,$88.81,43,156 Esch Center,Duluth,Minnesota,c4bab5c019d1f916be6a998ad6d4eb06,7/7/2017
+Celestyna Erskine,Department C,$20.53,59,298 Lotheville Junction,Levittown,Pennsylvania,a0e9674b704f182b028da473654f330f,1/1/2016
+Atlante Harower,Department D,$8.57,100,825 Delaware Plaza,Omaha,Nebraska,60030fbc1a777bf8bf9a81932d7e2c81,3/20/2016
+Jacquette Oakley,Department C,$59.58,78,15980 Hoard Pass,Iowa City,Iowa,651f6bb9c587d1af569ba2cc4660fa2e,4/15/2017
+Krystle Boothe,Department D,$69.90,1,67672 Lyons Crossing,West Palm Beach,Florida,8dd1b7105220b5f9aacc89ce814e02f8,5/4/2017
+Ashleigh Baudinot,Department D,$15.94,76,1 Anzinger Street,Houston,Texas,e3bae6dcf245b8876cee31d7d8249e1d,3/27/2017
+Krystle Boothe,Department D,$75.90,52,881 High Crossing Center,Evansville,Indiana,018a97aa1eb0c9e40d8c85431e2dbf2a,6/26/2016
+Ashleigh Baudinot,Department D,$86.01,44,7 Helena Junction,Shawnee Mission,Kansas,d6331e12149a4ad0390bf168db496429,10/9/2016
+Powell Amorts,Department B,$13.72,2,4103 Bluestem Circle,Mesa,Arizona,c3650183d9a1729a5900d316df39bbc6,4/1/2017
+Linn Becerra,Department B,$84.38,68,39 Susan Road,Clearwater,Florida,7ee51efa2d5cf468a4458e9f552b01ee,2/10/2016
+Nell Lindup,Department C,$57.02,73,4 Katie Place,Richmond,Virginia,5bb025450245fc6bdc11d2951142b693,11/12/2016
+Ignacio Arpur,Department A,$58.26,61,910 Johnson Trail,Corpus Christi,Texas,84cc6394c8bece75c6eed19ac29e867d,2/14/2016
+Ignacio Arpur,Department A,$55.76,59,7 Butterfield Pass,San Francisco,California,c4cc686492b551e7455362960ec229bd,10/26/2016
+Zaneta Delmage,Department B,$2.32,80,4 Village Green Parkway,Louisville,Kentucky,d41a0208de05223ab59f11250f0c6ea1,10/11/2016
+Shena Reeson,Department B,$98.89,94,65724 Duke Circle,Spokane,Washington,861c1644546e999e791e86f8eb682ba1,3/2/2016
+Zebedee Kedge,Department A,$5.53,42,53505 Claremont Trail,Houston,Texas,28b878aa9bf63c7dbc337adbd710cffa,3/12/2017
+Rutherford Kermath,Department D,$31.46,76,2297 Northridge Park,Bronx,New York,d5e6db08a2f405cc8ec5a5e500e45940,7/28/2017
+Linn Becerra,Department B,$13.16,2,94 Ridgeway Drive,Metairie,Louisiana,4add12ea35fd4890daac7693e3668812,3/17/2016
+Powell Amorts,Department B,$97.50,16,4 Di Loreto Place,Bryan,Texas,c07dcdf1f17b25ff22f93f8b43e09d58,1/8/2016
+Shane Simkins,Department B,$0.93,46,8 Mendota Way,Boston,Massachusetts,8181e6226a4fcd81b9bb0b057cebb964,1/3/2016
+Celestyna Erskine,Department C,$2.06,73,384 Muir Circle,Milwaukee,Wisconsin,3e3854e552da9513cb2d85435bdd1e88,12/13/2016
+Modesty Berringer,Department D,$91.25,94,892 South Crossing,Washington,District of Columbia,ff1e725a59ce2bf9df4819072f2bc822,9/13/2016
+Shane Simkins,Department B,$1.15,8,4316 Mockingbird Center,Everett,Washington,830396ab690a4f32421c82ccee652a93,7/18/2016
+Celestyna Erskine,Department C,$9.83,36,68719 Corry Hill,Asheville,North Carolina,95b40168fde733f5c3728008581a9135,2/14/2016
+Atlante Harower,Department D,$66.37,80,00784 Gale Park,Topeka,Kansas,a521f276d4d6755c78f726145b52d94e,7/16/2016
+Jacquette Oakley,Department C,$68.50,36,36030 Orin Hill,Los Angeles,California,f1dc9a37b0f00e3d2c694f76ffafdacf,3/1/2016
+Ignacio Arpur,Department A,$39.95,34,088 Warbler Avenue,Huntsville,Alabama,a73b8753f9c7a8f73d5d97548aaae50f,5/22/2016
+Shena Reeson,Department B,$30.61,21,94 Independence Point,Buffalo,New York,4a3ed7aa368c3b52da6d4d56371009ca,12/7/2016
+Atlante Harower,Department D,$0.09,86,0432 Claremont Crossing,Tulsa,Oklahoma,c506791b32a2c3264be4ce06b90cdc36,6/26/2016
+Shena Reeson,Department B,$36.70,45,22769 Mayfield Street,Saint Joseph,Missouri,e4de9ef0d1b64cb9d014807e0b4a3718,12/25/2016
+Linn Becerra,Department B,$89.52,7,001 Hudson Lane,Stamford,Connecticut,b37c9de8becd36e5aa1e32a90b3764d4,1/4/2016
+Linn Becerra,Department B,$79.80,92,4 Morrow Road,Fort Worth,Texas,ea518ccd52f474da2cf415216dce2b20,11/25/2016
+Brear Fairs,Department D,$14.41,84,78825 Eliot Pass,Jacksonville,Florida,86ddca3a20d6167e186584c91e7d182e,2/29/2016
+Shane Simkins,Department B,$68.39,17,9 Mifflin Park,Las Vegas,Nevada,16c97709695b8d87d0725e9678272eaf,1/13/2016
+Zaneta Delmage,Department B,$53.77,100,67 Myrtle Street,Springfield,Ohio,90dd7df61a78adb3a18c8b57fe62fff1,2/14/2017
+Ortensia Le,Department C,$95.54,84,40 Division Lane,Greensboro,North Carolina,588dc3537b5b87718850f7785252dc1c,8/11/2017
+,,,51,3 Stuart Court,South Lake Tahoe,California,6a16e1bc0990101cddd6d4bae21bceee,2/15/2016
+Shena Reeson,Department B,$14.27,1,012 Blackbird Place,Mobile,Alabama,3c6cf2791f1751f6d396d2fa4c6e7760,7/10/2017
+Gothart Whimpenny,Department C,$53.26,38,2286 Almo Street,Asheville,North Carolina,98c73c14f6f33afb1c8ce75b60359d7b,11/2/2016
+Shena Reeson,Department B,$94.07,31,9176 Clyde Gallagher Park,Joliet,Illinois,fd6c871c27673337f03e8c61a3e7f6b1,3/4/2016
+Rutherford Kermath,Department D,$46.94,85,898 Jackson Trail,Charlotte,North Carolina,929ef3e8518efb9b370a10f699058093,12/14/2016
+Shena Reeson,Department B,$93.16,56,09030 Hovde Avenue,Atlanta,Georgia,6462c46349d67135d3dcab96031cb568,10/23/2016
+Brear Fairs,Department D,$52.61,7,2 Waubesa Junction,Tucson,Arizona,564fd070511fcd30ac98c92532da863d,9/16/2016
+Celestyna Erskine,Department C,$64.68,54,79 Ludington Crossing,Kansas City,Missouri,e21452274c7eb19899c51362bc919925,9/2/2016
+Atlante Harower,Department D,$86.52,74,2768 Arkansas Lane,Washington,District of Columbia,fb2f18596dd65f98afd06151de49858f,7/25/2017
+Nell Lindup,Department C,$28.91,52,6138 Declaration Alley,Idaho Falls,Idaho,b3adc06dca6e6c59f09e69793df501bf,9/8/2016
+Bartholemy Kment,Department B,$19.82,75,40321 Northfield Alley,Tampa,Florida,9307749296677c61cca06b36e8f09235,2/5/2017
+Dallas Le,Department B,$28.10,60,92299 Becker Drive,New Haven,Connecticut,12b7263cc6ee7a10ea5eb1de3e47b3e0,8/23/2016
+Brear Fairs,Department D,$21.64,10,913 Mayer Road,Atlanta,Georgia,ffa01203bd261687b5488342d865ab8b,1/5/2017
+Bartholemy Kment,Department B,$91.70,51,1 Union Park,Mobile,Alabama,32f508e965a79f3cfd31f5ba01c54bfd,1/15/2017
+Dallas Le,Department B,$26.63,13,63 Bartillon Trail,Toledo,Ohio,2b40b69d788f1aff9e0abd5f2fb8e71d,2/2/2016
+Dallas Le,Department B,$53.19,22,91 Atwood Plaza,Tucson,Arizona,42714dbeb3c475bdbca6b1c9201a181a,6/30/2016
+Linn Becerra,Department B,$84.17,65,324 Monterey Center,Kansas City,Missouri,7ebd75c731c04001f5fe397d76621e7a,5/23/2016
+Shane Simkins,Department B,$58.35,79,040 Orin Park,Saint Louis,Missouri,8c67e1853de14d7743a3ebfe6030785c,11/7/2016
+Ignacio Arpur,Department A,$34.66,93,606 Hollow Ridge Point,Trenton,New Jersey,b33cae92ff7b29df1500e7ff51359813,8/29/2016
+Modesty Berringer,Department D,$40.79,50,02 Melvin Center,Richmond,Virginia,c940e3810db1e3cc8f2c4affd902b7a0,1/3/2016
+Brear Fairs,Department D,$42.76,54,2 Tomscot Hill,Hialeah,Florida,7ccbcad4a61c068ddb02005cd13defe2,3/20/2016
+Zaneta Delmage,Department B,$59.26,89,342 Myrtle Court,Hagerstown,Maryland,3dd835eb58227ad0a6cac995fbcfaebe,6/13/2017
+Gothart Whimpenny,Department C,$72.29,34,10825 Pierstorff Crossing,Miami,Florida,eb8b79ec9ef6e367e9ccb565dc002922,4/5/2017
+Zebedee Kedge,Department A,$62.31,51,00 Continental Alley,North Port,Florida,98e9c9ea57e3b3d3e53560b4e80c5518,6/19/2016
+Ortensia Le,Department C,$12.67,50,380 Eagan Alley,Salt Lake City,Utah,765d44f98bb748759da050558a75f986,5/16/2016
+,,,99,74 Buell Point,San Antonio,Texas,0eeb3db958139980901d850161b955f8,8/27/2017
+Atlante Harower,Department D,$55.48,73,876 Eagan Lane,Athens,Georgia,64955f38ba15ef721e7fe481487803cc,2/10/2016
+Modesty Berringer,Department D,$25.02,42,07 Golden Leaf Court,Topeka,Kansas,586cdd5ad22a460e3f16dafb78019f51,12/14/2016
+Celestyna Erskine,Department C,$22.36,85,221 Everett Junction,Syracuse,New York,0a66c6d6acd166aa919ae8deb5f101c3,5/25/2016
+Jacquette Oakley,Department C,$34.34,15,07921 Fallview Road,Omaha,Nebraska,a5b83224d2046944e9ec536680f65611,6/16/2017
+Modesty Berringer,Department D,$95.49,85,41486 Hermina Alley,Phoenix,Arizona,369ea1d93eefd19cacbad1b1162c86c3,4/10/2016
+Krystle Boothe,Department D,$47.59,40,25107 Harper Plaza,Jamaica,New York,1a82e11f9e9c7a8d5e5c470103c5262f,5/29/2016
+Chad Yeatman,Department A,$37.71,43,71 Mosinee Road,Washington,District of Columbia,857cf2f0a3d53effe45c208eb528811e,5/8/2017
+Shena Reeson,Department B,$87.28,33,08655 Butterfield Court,New York City,New York,d42e3fbe2fa94814e2d8e0d7370d1e04,8/5/2017
+Nell Lindup,Department C,$70.17,8,6 Stone Corner Drive,Kansas City,Missouri,a3273efb2b1d8d706b78f00b679de15d,4/15/2016
+Shena Reeson,Department B,$78.41,71,5298 Hansons Circle,Tulsa,Oklahoma,6301b84e5acc6220f9b0da09332e4738,3/25/2017
+Shane Simkins,Department B,$87.21,89,97554 Trailsway Road,Lexington,Kentucky,94dfc10ec0388178b63d878e52c4393c,7/25/2016
+Chad Yeatman,Department A,$63.05,65,73209 Meadow Ridge Point,Louisville,Kentucky,2139f8a9fbc085d27f13768461ce8a1a,1/30/2017
+Ignacio Arpur,Department A,$75.56,90,343 School Street,West Palm Beach,Florida,f59880ac2c3fcea2ab0ca910b819c79c,1/15/2016
+Modesty Berringer,Department D,$44.96,46,73 Kipling Alley,Jackson,Tennessee,938d3f2a0ecd9d58447148953507016d,11/3/2016
+Shane Simkins,Department B,$70.46,81,63307 Moulton Road,Charleston,South Carolina,29f69c18f55be4389747ddf4b7589eda,4/29/2017
+Shane Simkins,Department B,$22.53,19,2 Butterfield Court,Grand Rapids,Michigan,1e300f49b12077eaa4fe0254b3062a0e,7/3/2016
+Modesty Berringer,Department D,$16.56,39,24965 Northland Parkway,New Bedford,Massachusetts,939a0bc140dcd03d99edd1b184f54fc2,1/14/2016
+Jacquette Oakley,Department C,$28.55,11,3 Porter Pass,Oklahoma City,Oklahoma,af2cd2bff821e8837dd0a996d0619e4c,8/25/2016
+Bartholemy Kment,Department B,$47.44,87,03 Garrison Road,New York City,New York,547ba0b99f7014de49bb0350be560f75,2/9/2016
+Modesty Berringer,Department D,$73.02,24,34 Elgar Point,Amarillo,Texas,fa20a4c3399c6c689792b35cfaba2a69,2/14/2017
+Shena Reeson,Department B,$54.56,11,447 Hermina Parkway,Saint Petersburg,Florida,810f6677953110eb0b877420f5166edf,12/26/2016
+Jacquette Oakley,Department C,$48.68,56,909 Havey Plaza,Austin,Texas,88ca7e3b73f00ebd873ac32f5b659205,7/17/2017
+Atlante Harower,Department D,$41.93,3,94068 Talmadge Parkway,Fort Worth,Texas,ad85e101948e86e57edbf6fafefc61c5,3/10/2016
+Celestyna Erskine,Department C,$23.25,99,1 Saint Paul Road,Long Beach,California,1657fd93337af97113b44ad3b2e4b8fe,3/27/2016
+Ortensia Le,Department C,$90.38,85,4 Eggendart Point,Houston,Texas,6fccbd8f446e3dcb696622f451b31aaf,7/10/2017
+Shane Simkins,Department B,$63.49,88,814 Browning Avenue,Portland,Oregon,6b606e6f59559aecf2e2934f9e0e009a,6/10/2017
+Zaneta Delmage,Department B,$78.97,35,899 Blue Bill Park Hill,Seattle,Washington,9f61c5f801488185b68b338dd99f04a6,7/26/2016
+Zaneta Delmage,Department B,$34.00,27,99 Crest Line Crossing,Torrance,California,a30f6045f1ecc7ea903cadf8bd906548,2/9/2016
+Gothart Whimpenny,Department C,$83.23,76,6 Glendale Crossing,Colorado Springs,Colorado,eedfa402130330732866dab903c28aaa,3/8/2017
+Celestyna Erskine,Department C,$46.18,41,4 Morning Avenue,Lexington,Kentucky,9ea803dfdfdb7461e1ee87171b81c073,7/20/2017
+Nell Lindup,Department C,$12.69,27,92954 Barby Terrace,Saint Petersburg,Florida,5cd8b0e8d577e8a6a077f47e9d16d44c,4/20/2016
+Zebedee Kedge,Department A,$37.60,75,5181 Goodland Junction,Miami,Florida,cfb6694a0f6382415e928712aa7ab89d,4/26/2017
+Celestyna Erskine,Department C,$94.77,75,8420 Mandrake Pass,Houston,Texas,478d2f0da3efcd5a911e48dce63dbd02,8/21/2017
+Ashleigh Baudinot,Department D,$27.75,16,6 Mcguire Street,Los Angeles,California,dd3c578e6867f3a306ec6a70599049a7,2/21/2017
+Nell Lindup,Department C,$71.79,99,6707 Roth Road,Dallas,Texas,ae208182e101a3cfc4bbcd279a804d8b,1/12/2016
+Linn Becerra,Department B,$30.71,89,6548 Pawling Alley,Chicago,Illinois,e5cbff43a61729a930635e52df6b09cc,6/12/2017
+Jacquette Oakley,Department C,$47.05,68,123 Mifflin Terrace,Houston,Texas,dceb50ee6b9c4117bc666f78f7149109,3/13/2016
+Atlante Harower,Department D,$53.81,69,2990 Lillian Parkway,Sarasota,Florida,f8e632e3ce87a71583024fdd831d12ea,11/3/2016
+Bartholemy Kment,Department B,$77.12,98,16095 David Court,Pittsburgh,Pennsylvania,c53a3dfc245076bfcbd6d3591bd5e7d3,2/22/2016
+Brear Fairs,Department D,$25.74,6,27896 Bunker Hill Park,New York City,New York,c490aea416c2517e97f8e5240e1133be,9/16/2016
+Shane Simkins,Department B,$8.56,55,26188 Eagan Alley,Palo Alto,California,7b0e778df2ca11d4103369f8c9fe8a0a,9/14/2016
+Shena Reeson,Department B,$98.51,17,3 Arapahoe Crossing,Houston,Texas,b293cbcf9270bcf0b545c19bfb343c8b,10/15/2016
+Dallas Le,Department B,$78.93,72,573 Logan Place,Minneapolis,Minnesota,fe9eddca46540bbc26c42a2b4086c84d,10/13/2016
+Ignacio Arpur,Department A,$26.68,11,7082 Merrick Lane,New York City,New York,97f752b2ff49e87e193eea40fc5ebaa5,2/23/2017
+Brear Fairs,Department D,$49.01,44,3 Anhalt Street,Brooklyn,New York,de36feeafe25065814b774baa87e3825,3/4/2017
+Modesty Berringer,Department D,$27.69,83,06236 Hauk Avenue,Decatur,Georgia,2514a4b6d0ac0400717296fe863f2934,9/15/2016
+Brear Fairs,Department D,$98.97,41,88042 Anniversary Center,San Francisco,California,d0368f3c35583abd4b9e0b2e01a4b70d,4/8/2017
+Zaneta Delmage,Department B,$6.98,56,71038 Lindbergh Street,High Point,North Carolina,f36b36287b33fe6edaa9e09cb4ed04a7,4/17/2016
+Zebedee Kedge,Department A,$83.23,73,2137 Packers Hill,Austin,Texas,346163c647c8c9f0c4856918ded9ab76,12/15/2016
+Powell Amorts,Department B,$91.61,37,2345 Carpenter Terrace,Philadelphia,Pennsylvania,b9e2c264367fd8dadae5f270d8effdea,7/7/2016
+Celestyna Erskine,Department C,$8.82,74,96309 Marquette Parkway,Macon,Georgia,53852524765d69f389f83e90ba4b227b,2/17/2017
+Nell Lindup,Department C,$39.55,76,3533 Stone Corner Center,Gilbert,Arizona,006d1b44494953f6ef78d6ab3a06280e,8/4/2017
+Nell Lindup,Department C,$52.62,77,3393 Troy Park,Las Vegas,Nevada,756e12d515561fc38b5a1d3ef58fbaad,5/7/2017
+,,,6,91247 Donald Circle,Saint Joseph,Missouri,08f9a22cc289e3b9265d54d35cfe5502,4/17/2017
+Modesty Berringer,Department D,$45.65,43,87595 High Crossing Trail,Portland,Oregon,86b35d55d9ca90c949e57ff73a8bc57d,3/22/2016
+,,,57,7565 Warner Junction,Lansing,Michigan,f4c72ac7b4440d46011d976dde0683c0,12/11/2016
+Atlante Harower,Department D,$24.94,83,65383 Nevada Street,San Antonio,Texas,22436b4aed61f1e46a52ca9b345421d2,2/5/2016
+Shane Simkins,Department B,$68.23,79,7 Northland Lane,Saint Paul,Minnesota,730865a40f777fab2d09b11f83f2201f,1/20/2017
+Jacquette Oakley,Department C,$2.01,6,161 Laurel Circle,Pasadena,Texas,faff56c1385e89a60149746eed03117d,10/16/2016
+Bartholemy Kment,Department B,$45.76,64,13 Hovde Terrace,Orlando,Florida,92540043967bd517bc03eb5a8b3dd73b,8/31/2016
+Zebedee Kedge,Department A,$57.87,96,8056 Dayton Plaza,Washington,District of Columbia,602e882e885cf52f04d24ff38f15a732,1/26/2016
+Ignacio Arpur,Department A,$83.41,82,6 Lakewood Gardens Drive,Norwalk,Connecticut,dc4fbe5f55b9e2089d9cc61cf1b2aae5,6/15/2017
+Shane Simkins,Department B,$63.63,11,6970 Grim Hill,Dallas,Texas,a205b12c1e11b0a005f5138f807c536f,2/9/2017
+Ortensia Le,Department C,$72.72,85,59949 Carpenter Court,Chattanooga,Tennessee,078f8cc85a8bc699dde326add6d1e039,10/26/2016
+Zebedee Kedge,Department A,$50.97,12,69357 Reindahl Court,San Francisco,California,e8b2e739c7a5b539ab954b71d3ac3e7c,10/28/2016
+Dallas Le,Department B,$97.59,95,3138 Burning Wood Terrace,Anderson,Indiana,f117ad4b81d593da6a471346ad5b3caa,9/17/2016
+Krystle Boothe,Department D,$5.89,82,9017 Everett Drive,Birmingham,Alabama,bcf3bf4d0adb8ba137997191aee17104,7/25/2016
+Ashleigh Baudinot,Department D,$73.67,41,955 Vera Hill,Fresno,California,0d5310d253fe35badb2393881ee1a261,1/25/2017
+Zebedee Kedge,Department A,$1.95,99,81 Shelley Drive,Fort Worth,Texas,326dab90567988eae753716fe8644a37,6/9/2017
+Ignacio Arpur,Department A,$79.98,53,7809 Mcbride Court,Minneapolis,Minnesota,a0ce591b5ea1e87234d8de99524ef326,8/2/2017
+Linn Becerra,Department B,$33.05,42,75 Meadow Ridge Plaza,Washington,District of Columbia,11117e3512bb888a106c98f42711b10a,9/4/2016
+Linn Becerra,Department B,$62.92,94,52088 Annamark Junction,Glendale,California,985d891e1fb40514febea96a1e815eb7,3/15/2016
+Zebedee Kedge,Department A,$25.76,30,7881 Starling Parkway,Gaithersburg,Maryland,e10ae605efe686fac9021bf3a24a63bf,8/20/2017
+Modesty Berringer,Department D,$35.36,97,47781 Becker Place,Washington,District of Columbia,f84d46a3765d9d7068774f8814902a73,11/28/2016
+Ortensia Le,Department C,$72.00,39,8 Randy Street,Denver,Colorado,8e6c0c28852c0d6de1c613aa80885c5e,2/4/2016
+Krystle Boothe,Department D,$62.18,71,2 School Pass,Bradenton,Florida,255c49748ba276c551ed08fd8baef3e5,3/11/2017
+Ignacio Arpur,Department A,$78.46,34,3067 Gina Drive,Montpelier,Vermont,d55f9e2e00ccb64e9afee1cc75de8cf8,1/25/2017
+Krystle Boothe,Department D,$67.46,56,02 Laurel Trail,Youngstown,Ohio,4e22cfc8752441c3256178a69c251c5c,7/19/2016
+Shane Simkins,Department B,$13.29,21,7359 Elka Parkway,Pasadena,California,5bbac74a0d4b409eec9d876bd8279712,3/26/2017
+Atlante Harower,Department D,$83.88,14,66 Caliangt Park,Clearwater,Florida,ed2e428c7036e220a31fbd0e9e65a220,2/16/2016
+Chad Yeatman,Department A,$98.97,75,36 Weeping Birch Terrace,Lynchburg,Virginia,422892d7f6ab19727b3bd096fa327b1d,7/15/2016
+,,,31,1397 Jana Terrace,Salt Lake City,Utah,f17a2050559f584a7da0639d240edd0c,7/21/2017
+Shane Simkins,Department B,$10.58,87,68 East Road,Minneapolis,Minnesota,992d6ea58675b3b7e0bf975c3f2ddf1b,11/13/2016
+Jacquette Oakley,Department C,$63.73,30,7349 Homewood Junction,Memphis,Tennessee,0e9880fe2377c9b93027ccecea6fac89,8/2/2017
+Jacquette Oakley,Department C,$53.95,51,56 Miller Crossing,Danbury,Connecticut,d56f57853ea6cd7a6977a66e71a61f49,7/28/2016
+Powell Amorts,Department B,$76.06,37,8 Bluestem Lane,Miami,Florida,f86e1e0c9b0f3127d80dd99fa2e7222d,7/8/2016
+Ashleigh Baudinot,Department D,$46.73,62,48254 Rigney Pass,Jersey City,New Jersey,18cda45280aefa832a27dfc173b3ccf1,10/30/2016
+Shena Reeson,Department B,$81.61,40,68325 Park Meadow Lane,North Las Vegas,Nevada,467a05c5a537f218317883869fd9896f,10/22/2016
+Dallas Le,Department B,$52.48,24,8 Lakewood Way,Winston Salem,North Carolina,2473b9a2b78d9076bdbf6834a506ba96,4/21/2016
+Chad Yeatman,Department A,$2.42,91,40272 Lien Alley,Honolulu,Hawaii,db5e8722de72440336b1f23df4300095,3/12/2017
+Bartholemy Kment,Department B,$63.39,82,28378 Marcy Court,Los Angeles,California,a29fe0b3ce039c10294ab7d70ebd6136,7/22/2017
+Brear Fairs,Department D,$41.96,21,0461 Arkansas Point,Greensboro,North Carolina,9b550194084541729d0535c51088cd15,12/16/2016
+Modesty Berringer,Department D,$98.02,75,31 Bobwhite Plaza,New York City,New York,7bdb78bede48496b69c8537801c753de,3/30/2016
+Gothart Whimpenny,Department C,$43.25,51,4 Dayton Hill,El Paso,Texas,3add2f784ecce105e96653b85f634bd3,3/16/2016
+Chad Yeatman,Department A,$77.90,8,807 Menomonie Center,Providence,Rhode Island,5d586a9ee2626c06cf4974a5ab478f56,7/25/2016
+Krystle Boothe,Department D,$21.91,68,35794 Maryland Street,Alhambra,California,13d529f48e0d3b09905c2bdb3a79d36d,8/28/2017
+Chad Yeatman,Department A,$69.13,87,5443 Maryland Drive,Richmond,Virginia,6c14887fe7eb2192125b2d7cb76bf9d9,2/16/2017
+Jacquette Oakley,Department C,$48.34,48,3 Eastlawn Center,Raleigh,North Carolina,2fa4e6400a7600a6bbebc5588bf48072,10/13/2016
+Krystle Boothe,Department D,$50.51,68,88 Pond Parkway,North Hollywood,California,759f9088770d79606042a0a79d7e4f57,2/17/2016
+Ignacio Arpur,Department A,$98.80,38,4131 Artisan Court,Baltimore,Maryland,4f2c54cab7c3a805c77dbdf7474bf818,3/9/2017
+Dallas Le,Department B,$87.14,30,06 Crescent Oaks Pass,Gulfport,Mississippi,e45c3f9e318fbfa43d77132e88cdded6,4/25/2017
+Ortensia Le,Department C,$7.82,90,23869 Stuart Pass,Birmingham,Alabama,3b8b45437e8c163e078309c9c8d79286,12/21/2016
+Brear Fairs,Department D,$41.24,89,4 Jackson Lane,Grand Rapids,Michigan,242778f7003e4939afe676a44c916db9,8/5/2017
+Bartholemy Kment,Department B,$84.99,55,726 Toban Trail,Tucson,Arizona,0b943f8c1e5d213975256fdbe0d94c08,9/9/2016
+Shena Reeson,Department B,$75.65,4,59613 Nobel Alley,San Francisco,California,62a7767daa98c9815e8fc5abbfda5683,12/31/2016
+Shane Simkins,Department B,$21.29,56,97958 Dakota Hill,Duluth,Georgia,93f245622bbafcb1ff4157ab0927fbd2,1/16/2016
+Ashleigh Baudinot,Department D,$91.65,86,5 Ilene Parkway,El Paso,Texas,49cec9493918c825a017e73d1cd1a2aa,8/9/2016
+Powell Amorts,Department B,$24.39,40,0270 Cordelia Street,Oklahoma City,Oklahoma,e97440299770aeee7b5d453dc3b778f1,8/23/2016
+Modesty Berringer,Department D,$38.79,72,891 Prairieview Court,Melbourne,Florida,9b650f98fdab76e569376569a0d59511,6/26/2017
+Ignacio Arpur,Department A,$51.56,32,385 Meadow Ridge Terrace,Philadelphia,Pennsylvania,627236f35fc7d17487454969c9c8cf50,5/10/2016
+Bartholemy Kment,Department B,$80.79,15,62640 Manufacturers Avenue,Pompano Beach,Florida,ac9a8ea3e926d83eee606a5e09f4e177,10/4/2016
+Celestyna Erskine,Department C,$92.16,22,10 Corscot Plaza,Pompano Beach,Florida,b56824996b49fc7bc9e418a1ab65dc0e,4/20/2016
+Shane Simkins,Department B,$68.00,96,51 Algoma Lane,Salt Lake City,Utah,3778f601e1c07e3823df0ee82c03a5eb,2/13/2017
+Rutherford Kermath,Department D,$56.07,45,711 Dovetail Plaza,Minneapolis,Minnesota,d79166c535530c29ef8c9a10b1a67197,4/30/2017
+Zaneta Delmage,Department B,$24.89,78,6 Melody Lane,Syracuse,New York,58dda9c3a23eeb0bc58cae07d9ba9896,6/27/2016
+Ashleigh Baudinot,Department D,$61.83,66,78256 Maryland Terrace,Shreveport,Louisiana,7f61b0539e605e11d4857b9771e6c9d8,12/23/2016
+Ashleigh Baudinot,Department D,$32.23,29,6460 Eastlawn Circle,Louisville,Kentucky,865884291aa81c7e10895852f8f0db88,1/3/2017
+Shane Simkins,Department B,$73.70,76,4000 Saint Paul Street,Salem,Oregon,7bd5d87f6dac2b3d93689a6ce5d4d05a,2/15/2016
+Zaneta Delmage,Department B,$41.86,87,31 Golf View Circle,Raleigh,North Carolina,8fccf0a2282361b4fb1d484f418a12d8,11/21/2016
+Shena Reeson,Department B,$5.12,75,7023 Valley Edge Lane,Columbus,Ohio,5d382ebcbe7cddc12e25010dd37ff5ef,6/5/2017
+Atlante Harower,Department D,$75.93,33,8190 Mcguire Avenue,Akron,Ohio,c25f3efb39b0707527b557e545a78e06,10/31/2016
+Nell Lindup,Department C,$16.54,68,68 Derek Road,Bryan,Texas,01ee6184c230532beabdb8537799b551,8/6/2017
+Powell Amorts,Department B,$3.68,30,72 Vera Hill,Omaha,Nebraska,1927ba0a8822cf56febbe4d8e350ffdc,2/8/2016
+Brear Fairs,Department D,$67.22,14,429 Lien Court,Farmington,Michigan,8025a068999124d231b0295a5addcade,12/29/2016
+Modesty Berringer,Department D,$49.52,67,87 Mayfield Lane,New York City,New York,602bf898bdde9b1ad69b9ac90074bc15,3/6/2017
+Ashleigh Baudinot,Department D,$90.94,50,6 Boyd Parkway,Beaufort,South Carolina,584696790d1fbe6d88eb7dc2f0a7e812,5/3/2017
+Ortensia Le,Department C,$62.52,42,17 Dottie Point,Fresno,California,58fbee7ef2a02bcda24a1fca1431c0d1,9/17/2016
+Powell Amorts,Department B,$39.83,43,48 Butternut Alley,Philadelphia,Pennsylvania,a5fd3151bdbb04a622e239656770c4c0,5/8/2017
+Bartholemy Kment,Department B,$49.88,62,0372 American Ash Road,Raleigh,North Carolina,129dc75e436b02b3c1f42b44aec2eea1,10/31/2016
+Nell Lindup,Department C,$42.99,34,8601 Merry Hill,Washington,District of Columbia,906f13d0b93eddead75a2dba141313e6,4/7/2017
+Atlante Harower,Department D,$70.93,91,01934 Riverside Avenue,Dallas,Texas,318530160344f8c359027a25c6d60cef,6/16/2017
+Celestyna Erskine,Department C,$33.52,43,7 Rutledge Drive,Panama City,Florida,586790bf6f4d59599a7d8b8a3bbbbab2,6/4/2016
+Brear Fairs,Department D,$83.88,84,2789 Arrowood Alley,Milwaukee,Wisconsin,f13535ac3080ba7a25f0c5d3cb7ff713,12/20/2016
+Brear Fairs,Department D,$93.49,27,335 Eliot Road,Atlanta,Georgia,b419dc79eb5c9f46f44be762504b9f53,6/10/2016
+Zebedee Kedge,Department A,$43.82,59,888 Maywood Avenue,El Paso,Texas,88d9664a2d78c74e780bd15162545ea3,12/26/2016
+Zaneta Delmage,Department B,$8.64,77,83078 3rd Crossing,Mesquite,Texas,9c0b6dcfcc3f1270b18bf86eb0487e94,1/29/2016
+Linn Becerra,Department B,$46.96,1,1 Sunnyside Trail,Houston,Texas,38385447a5dd686fde635ad5bfd0ffb8,4/10/2016
+Bartholemy Kment,Department B,$23.41,37,53 Morrow Center,El Paso,Texas,88da6b01c2d11c5380729000b4cd4831,3/4/2017
+Gothart Whimpenny,Department C,$39.54,19,38 Merchant Pass,New York City,New York,59563e56e3b2808dc8f2f899568237b9,3/17/2016
+Linn Becerra,Department B,$93.12,57,23 Bunker Hill Hill,El Paso,Texas,2a9f66fc937f3a9b4e29fe6bd3ab5daf,4/9/2017
+Linn Becerra,Department B,$19.86,64,279 Morningstar Parkway,Stamford,Connecticut,3ed7ebc877f2bbadbdbb9dd147075e99,5/22/2017
+Ortensia Le,Department C,$92.93,79,909 South Point,Moreno Valley,California,57631e621cc44308e8df350bc8e4e3e2,7/5/2016
+Shane Simkins,Department B,$93.86,29,78 Hallows Avenue,Boston,Massachusetts,c95f5491a33f672329708e5662717f84,1/2/2016
+Jacquette Oakley,Department C,$69.90,56,78341 Gateway Trail,Evansville,Indiana,5c26520b15f15b13576e2c1937dd6e1b,7/27/2017
+Dallas Le,Department B,$61.49,77,9574 Charing Cross Way,Alexandria,Louisiana,aefdbf3bf3837ce0366c139e19b55955,3/5/2017
+Gothart Whimpenny,Department C,$32.92,93,108 Meadow Ridge Place,Fort Smith,Arkansas,e92f9463067ef5cbd444e15b8e7ebdd9,3/12/2016
+Rutherford Kermath,Department D,$37.41,51,23 8th Alley,Norwalk,Connecticut,6e63471865b72e4720bb75374849c477,2/4/2017
+Chad Yeatman,Department A,$50.17,1,64514 Ryan Court,Detroit,Michigan,bb9e8adcad221c1fd044180d76b87b19,9/17/2016
+Modesty Berringer,Department D,$13.81,18,28930 Crowley Pass,Jacksonville,Florida,411d8494f450c19a70da167000d3f472,12/22/2016
+Krystle Boothe,Department D,$17.97,26,55 Prairieview Drive,Chicago,Illinois,6effdac2fcc39ff46e27b2c2c0f9c245,3/29/2016
+Shane Simkins,Department B,$5.75,47,5 Mayfield Road,Dallas,Texas,c67ca894906750ee0c05ff4c4e924d07,12/20/2016
+Krystle Boothe,Department D,$74.71,37,065 Quincy Way,Houston,Texas,0831e43ac8ac1606ac8ec06da355b9c8,4/14/2016
+Celestyna Erskine,Department C,$85.84,6,1509 Evergreen Parkway,Saint Louis,Missouri,b7bf6be1be6ddd72e44137f2033e27d1,8/24/2017
+Dallas Le,Department B,$74.66,92,619 Magdeline Junction,Seattle,Washington,8100045017cba04405f467dd73276543,1/28/2016
+Bartholemy Kment,Department B,$20.51,49,11032 Barby Street,Lancaster,Pennsylvania,b852d5ddee553a8cb049c6e447f17cbf,2/11/2016
+Modesty Berringer,Department D,$99.10,2,04079 Paget Crossing,Oklahoma City,Oklahoma,ddca91faf69b403a6acb9f4c5de0af25,7/25/2016
+Gothart Whimpenny,Department C,$80.95,79,01 Magdeline Road,Minneapolis,Minnesota,5f3176b2e6de23ced26d9ac59028192d,4/28/2016
+Atlante Harower,Department D,$14.81,39,3880 Carpenter Terrace,Huntsville,Alabama,8106049e9f44b1af8351cfafcabe237e,3/23/2016
+,,,83,3 Hagan Alley,Atlanta,Georgia,11e99dabf0da7d5daf939bc26783bc43,8/29/2016
+Ashleigh Baudinot,Department D,$74.86,80,7018 Vahlen Parkway,Chicago,Illinois,8ffd49d0fc70905c6a002264fba95611,6/29/2017
+Atlante Harower,Department D,$30.85,39,0 Mccormick Place,Raleigh,North Carolina,4b10a959cc45f39c5d7f2f1b27b50377,1/28/2017
+Bartholemy Kment,Department B,$65.93,81,6 Redwing Terrace,Charleston,South Carolina,461a543c121fb1c09b77372c07b4ff22,2/21/2017
+Zebedee Kedge,Department A,$39.21,14,636 Main Junction,Pasadena,California,5d22646f676ebccdf8ac4ae207ad0777,11/20/2016
+Ortensia Le,Department C,$63.05,26,6 Carioca Park,Salt Lake City,Utah,ab8fb9ede82de297a50ae4171e0f8341,10/10/2016
+Chad Yeatman,Department A,$97.59,88,0 Graedel Hill,New Orleans,Louisiana,a62a493a2119c6b1a74ff914b8deb058,8/31/2016
+Shena Reeson,Department B,$42.18,65,27 Mayer Plaza,Sarasota,Florida,3f9fab2e231ca20d78bf240a7bacba2d,4/22/2017
+Chad Yeatman,Department A,$6.65,8,51319 Westport Lane,Green Bay,Wisconsin,ec5cb8e355bb41a6d1b020b2700a8453,2/26/2016
+Linn Becerra,Department B,$48.43,90,5 Mesta Circle,Topeka,Kansas,3c81f99c2296dd588d278566eb798995,7/17/2016
+Dallas Le,Department B,$53.67,30,577 Golf Course Crossing,Memphis,Tennessee,de2ac5d55eb92813ebf62424f4787d55,11/11/2016
+Modesty Berringer,Department D,$17.43,47,87433 Arapahoe Court,Knoxville,Tennessee,42a54c65e721eda6ca7893741fefc225,3/4/2016
+Powell Amorts,Department B,$70.07,76,5505 Eggendart Park,Fresno,California,faf9c580f52f946db62449888a3075d3,4/24/2017
+Ignacio Arpur,Department A,$20.59,9,855 Weeping Birch Terrace,Saint Petersburg,Florida,eccb8c8c37f4a02551e709adddd44462,2/22/2017
+Zebedee Kedge,Department A,$95.08,25,282 Sundown Pass,Peoria,Illinois,dae956e5f775b8b9a8a20fca0fa86782,4/3/2016
+Modesty Berringer,Department D,$96.63,32,0 International Place,Washington,District of Columbia,a3842f7eef5007326eccd00ef216a5bc,8/6/2016
+Gothart Whimpenny,Department C,$27.91,8,3 Hayes Hill,Greensboro,North Carolina,529d28cd4d5616dc4faa126235401745,10/25/2016
+Ignacio Arpur,Department A,$2.87,28,767 6th Crossing,Escondido,California,03a940f2af7754be2af1c347bae84e44,1/27/2016
+Nell Lindup,Department C,$86.56,60,14521 Fulton Point,Pasadena,California,df25c13dea648536ed8af90e818ae134,7/14/2017
+,,,79,588 Miller Terrace,Detroit,Michigan,55c5f8aed5ea6d277671c48743348e11,10/14/2016
+Ignacio Arpur,Department A,$55.76,27,08123 Sommers Center,Providence,Rhode Island,dbcf00ed9b3981d1b3dec1d72b5f4722,3/8/2016
+Ortensia Le,Department C,$41.34,54,86 Hauk Place,San Francisco,California,66bbef480ec6a05338b6f30ce06229cf,6/4/2016
+Shena Reeson,Department B,$92.41,5,9 Roth Court,Los Angeles,California,c88ab4c67c79fe14e00040ff780ace1b,12/5/2016
+Krystle Boothe,Department D,$8.33,61,9590 Armistice Plaza,Amarillo,Texas,f080f916289a149d4f192d235e82ae9d,3/25/2016
+Celestyna Erskine,Department C,$35.50,28,02 Center Street,Los Angeles,California,1de6ca22a78c5a600913b7f1fa2ac621,5/30/2016
+Zebedee Kedge,Department A,$96.75,9,795 Almo Circle,Rochester,New York,c591a5a6c2b304294c4e7c8ada0363dd,5/28/2016
+Ashleigh Baudinot,Department D,$94.88,24,1184 4th Lane,Washington,District of Columbia,ef7943c147837e1195832976a4ef8f79,1/12/2017
+Zaneta Delmage,Department B,$72.53,99,96548 Hoepker Way,Atlanta,Georgia,e79439397821f31ad4b1aabdd0de28fb,7/21/2017
+Rutherford Kermath,Department D,$74.96,48,6232 Welch Street,Nashville,Tennessee,34df72286ab7406d027e5dbffe5a7a65,1/20/2017
+Shena Reeson,Department B,$40.91,50,285 Hoepker Trail,Miami,Florida,9c24b9553c53141004c82b88ad76a3b0,2/14/2016
+Ashleigh Baudinot,Department D,$46.70,100,7 Butternut Avenue,Silver Spring,Maryland,ffc5ec9d1144213d4dccc2ff560b5240,12/29/2016
+Ignacio Arpur,Department A,$77.03,31,3648 Hintze Lane,Youngstown,Ohio,9296bae4f7d6a2a2d44782efd074930f,3/21/2016
+Dallas Le,Department B,$43.70,44,76269 Thompson Way,Dearborn,Michigan,7af74e5f0db84a32cfb6b018feb03071,8/9/2017
+Dallas Le,Department B,$52.54,93,807 Loeprich Center,Charleston,West Virginia,099ee702c7f48bf6ee37dc96ddd375ff,2/7/2016
+Jacquette Oakley,Department C,$87.94,71,480 Banding Street,New York City,New York,2e09e839423ab3d22ae230419fb0b982,2/20/2017
+Bartholemy Kment,Department B,$14.82,52,892 Brentwood Center,Green Bay,Wisconsin,5b7457c315dc6adb62f23dd9c367b9fc,8/11/2017
+Ignacio Arpur,Department A,$3.10,22,0 Harbort Street,Jamaica,New York,1e1fd4e95d5df9a240ab7d71c0f081ac,6/20/2016
+Dallas Le,Department B,$2.70,21,2 Eggendart Alley,New York City,New York,ad23c0170d73633c73c31a66b0564eeb,7/8/2017
+Krystle Boothe,Department D,$27.98,14,8988 Waxwing Plaza,Las Vegas,Nevada,96654cadcfb11f046bb907a1beb26709,1/2/2017
+Bartholemy Kment,Department B,$65.01,70,6833 Troy Park,Madison,Wisconsin,e9507fa65500d54ed9e11a92a6d4a001,7/11/2017
+Zebedee Kedge,Department A,$6.49,76,748 Ronald Regan Plaza,Charleston,West Virginia,c7a640d76f7b9ca3bab1b0b0ae593e63,5/7/2017
+Ignacio Arpur,Department A,$36.61,81,5 Iowa Lane,Cleveland,Ohio,e69d73f95c586708cde4fb12e80c505e,6/15/2017
+Celestyna Erskine,Department C,$15.25,32,5502 West Center,Davenport,Iowa,91b6155eaa62658c4277ff7e0cb2e8c3,4/27/2017
+Rutherford Kermath,Department D,$62.18,47,54460 Novick Terrace,Buffalo,New York,9e7833d1934c5069f502b3de1fa1c646,4/19/2017
+Powell Amorts,Department B,$23.85,100,057 Haas Avenue,Peoria,Illinois,508265e8f88f4879317e9d54cec0a5ee,7/9/2017
+Celestyna Erskine,Department C,$9.91,3,4701 Miller Crossing,Laurel,Maryland,6db78ef44eeb3fbc6af3016cda20568d,10/11/2016
+Krystle Boothe,Department D,$0.85,22,5604 Monument Way,Lincoln,Nebraska,b39131c66a3e7f10626ebfdaed3f8c9e,8/19/2016
+Linn Becerra,Department B,$37.15,67,05649 Waywood Pass,Topeka,Kansas,8ba06305c82a00af2800d8b59ab1fe78,6/7/2016
+Rutherford Kermath,Department D,$11.05,11,18592 Bellgrove Road,Kansas City,Missouri,5965467cc5b3fe62c3c508228bf03584,6/28/2017
+Chad Yeatman,Department A,$26.78,79,41 Cody Pass,Charlotte,North Carolina,88a358974274df2051ce9e623633f124,7/11/2017
+Ortensia Le,Department C,$29.37,72,267 Gale Lane,Austin,Texas,22ce554b98cca74794e6874a2bfd0d55,6/15/2017
+Bartholemy Kment,Department B,$9.60,74,11 Manitowish Parkway,Erie,Pennsylvania,b841201896ebafc245f29fc43a576e6e,3/10/2016
+Nell Lindup,Department C,$24.99,23,39041 Sauthoff Point,Las Vegas,Nevada,325964e6a983da6b03fff50fd677fc45,8/13/2017
+Chad Yeatman,Department A,$93.43,81,442 Merchant Point,Springfield,Illinois,77e7fccd42f8fad0ed0924262f1961ec,12/5/2016
+Ignacio Arpur,Department A,$63.12,63,0 Washington Alley,Metairie,Louisiana,3d998576de0f8664d0de3815a6118424,7/22/2016
+Powell Amorts,Department B,$21.98,83,8401 3rd Circle,Springfield,Illinois,61d0d6c85c423739466aca3ef3af3345,8/7/2017
+Zaneta Delmage,Department B,$33.67,6,73 Cardinal Junction,New Haven,Connecticut,9ea2369737f338424d4260274a12d847,3/29/2016
+Dallas Le,Department B,$35.76,36,3 Bobwhite Hill,Oakland,California,f696f491d2508761629434113f2d0e17,9/12/2016
+Brear Fairs,Department D,$85.82,39,29533 Harbort Way,Montgomery,Alabama,368596e91bdc273b2720ef79b95f04b2,7/6/2017
+Ortensia Le,Department C,$66.61,56,8451 Northland Junction,Indianapolis,Indiana,060841e449d90d180259b81313035b96,5/8/2016
+Shena Reeson,Department B,$75.41,59,7 Dwight Lane,Port Washington,New York,7e586bb133818f49f330f7065c904693,1/12/2017
+Bartholemy Kment,Department B,$99.79,23,2 Golf Avenue,North Port,Florida,aebeedeba9ebdae1960fd66c3e7db670,6/28/2016
+Zaneta Delmage,Department B,$66.26,26,84 Melrose Lane,Sarasota,Florida,b89266f5aa53c8a8fe9325c8033c2d07,9/20/2016
+Linn Becerra,Department B,$59.43,81,3708 Susan Terrace,Mesa,Arizona,cad05ed696d1a8f841e1f7f12585e17a,7/21/2017
+Ortensia Le,Department C,$36.68,5,3981 Kinsman Street,Tyler,Texas,bc53b683eed932fe88bd237589ef6703,5/21/2016
+Bartholemy Kment,Department B,$49.70,21,2 5th Drive,South Bend,Indiana,bc95b0de3c2a9c9c62d020ced3b7de68,8/6/2017
+Shena Reeson,Department B,$81.74,30,6803 Redwing Trail,Brooklyn,New York,f070649209849cb3f4873a042ab1ec08,8/24/2016
+Chad Yeatman,Department A,$82.10,76,5 Oakridge Drive,Indianapolis,Indiana,818fc854fb1a709ea3cb4cb786fd5321,11/20/2016
+Ortensia Le,Department C,$9.47,38,05023 Milwaukee Point,Newark,Delaware,b3c750cc749e3801e308d5d77708e31d,8/17/2016
+Dallas Le,Department B,$75.81,35,875 Quincy Pass,Birmingham,Alabama,f023f0bd658da29041d2c36b4420f128,1/31/2016
+Celestyna Erskine,Department C,$62.26,19,12757 Fuller Plaza,Washington,District of Columbia,f1a5b6e48e237583050c9588cdf55cef,8/21/2016
+Linn Becerra,Department B,$86.14,5,5 Ryan Street,New York City,New York,7ebd35f8be47c17b7e716dc67f97ed10,5/29/2017
+Brear Fairs,Department D,$26.15,10,170 Holy Cross Hill,Evansville,Indiana,590ecda94555e11a82a22dc23fd3d210,4/27/2016
+Powell Amorts,Department B,$96.87,51,75 Messerschmidt Drive,Escondido,California,8194b328ee5a61a3729ca3d6ffc3a3a0,2/17/2016
+Shane Simkins,Department B,$37.04,40,757 Mesta Place,Durham,North Carolina,44c04e25c08822e5fa4b27aaf3d72eff,10/6/2016
+Ashleigh Baudinot,Department D,$72.87,44,83 Quincy Trail,Melbourne,Florida,ec62d316a63c3b8bad6ab6805b4f0540,11/13/2016
+Modesty Berringer,Department D,$72.94,74,00 Carioca Hill,Great Neck,New York,4e2486fb066b8941dc09d5645c9032a2,1/4/2017
+Rutherford Kermath,Department D,$19.92,64,6 Sherman Place,Baltimore,Maryland,8b5ca58ee61237b7f379221371165123,9/4/2016
+Shena Reeson,Department B,$1.37,57,4947 Banding Pass,Midland,Texas,934ac5016948e7331bbb00f261b75a7c,3/28/2016
+Dallas Le,Department B,$99.48,99,14 Harper Trail,Metairie,Louisiana,291aecfb18f74f6defac8e26f4c21c5d,7/25/2016
+Celestyna Erskine,Department C,$44.04,86,0 Ohio Park,Miami,Florida,4a9607da2318a11c3b495ee5157ef807,2/3/2017
+Powell Amorts,Department B,$92.95,70,86 Miller Center,Boise,Idaho,31a5bf1a28bb3963ead1150def06545c,7/1/2017
+Chad Yeatman,Department A,$68.20,40,84261 Hauk Park,Knoxville,Tennessee,17ae83b0b7acae6634ab36a3e722fc58,12/20/2016
+Rutherford Kermath,Department D,$6.97,3,47690 Maple Park,Des Moines,Iowa,f4f3ce565f6d765fa4830ae74c82fe52,2/13/2017
+Ashleigh Baudinot,Department D,$34.37,46,826 Ramsey Way,Anchorage,Alaska,004e57c099dfc91a3ca8134cafd15199,9/27/2016
+Modesty Berringer,Department D,$52.30,88,22169 Lakewood Parkway,Laredo,Texas,7073ab952990efecede8c83ea8d197ea,1/19/2016
+Ortensia Le,Department C,$69.21,25,80 Melby Hill,Charlotte,North Carolina,3385992be39d1d9612efcdc4c2236719,2/26/2017
+Ashleigh Baudinot,Department D,$39.17,57,25702 Glendale Trail,Phoenix,Arizona,4931ec8b1fd1e1dcd76cf7760befa6e1,4/1/2016
+Linn Becerra,Department B,$76.51,43,15 Hansons Way,Long Beach,California,256b40c40da8f9cdf0cad4796b32237e,3/12/2017
+Atlante Harower,Department D,$83.49,49,696 Morning Pass,Houston,Texas,9d07a75d58b01b730e40c705946b4148,11/25/2016
+Shena Reeson,Department B,$35.01,73,1581 Surrey Drive,Washington,District of Columbia,b271addd9ad8b68127c9cbae87aaa9e5,8/10/2016
+Shane Simkins,Department B,$7.86,84,722 Canary Park,Danbury,Connecticut,0b4c71f63caaf77d197b32d7dff9a48c,8/17/2016
+Powell Amorts,Department B,$46.64,25,51 Twin Pines Circle,Wichita,Kansas,4fd3efd2b93d8b96e7418d2d23631f0f,7/4/2017
+Powell Amorts,Department B,$40.39,31,48788 Anzinger Court,Denver,Colorado,421b3c3676d47e48cb7d2779be15cff0,11/9/2016
+Jacquette Oakley,Department C,$45.18,76,9 Oxford Place,Bethlehem,Pennsylvania,b6e57b58e21e25d7134e48d1d551e10f,9/12/2016
+Ashleigh Baudinot,Department D,$59.32,79,51 New Castle Junction,San Francisco,California,66613a165d3c19232f772c0ff681cef6,4/15/2017
+Powell Amorts,Department B,$74.99,72,1869 Macpherson Parkway,Washington,District of Columbia,d51d8860cad819b237a0c13bb5c85da9,7/13/2016
+Ashleigh Baudinot,Department D,$39.19,29,2339 Eggendart Parkway,Columbus,Ohio,0b536b24e4c68d5ca9b0d9c57a6c60f8,7/16/2016
+Zebedee Kedge,Department A,$55.93,46,389 Luster Park,Huntsville,Alabama,72238baf0332f9ed8edb1aec732107b0,1/18/2017
+Ortensia Le,Department C,$20.64,34,5499 Garrison Point,Fresno,California,01f1a9315127808770b2b787ddb6f8b9,9/4/2016
+Rutherford Kermath,Department D,$39.74,71,694 Jana Crossing,Fort Wayne,Indiana,198ad70a36f860d7930185c168e8c1d9,2/6/2016
+Shane Simkins,Department B,$90.70,15,3600 Northport Drive,Atlanta,Georgia,c740f594ba8b80fe20f18adba3a22deb,8/26/2016
+Shena Reeson,Department B,$36.40,59,91 Artisan Crossing,El Paso,Texas,9f39db95f4ad422f913e9fb4671bd5cb,7/22/2017
+Ignacio Arpur,Department A,$32.61,6,59 Dennis Way,Buffalo,New York,f17106545821193549c7d8a3f0fa1000,1/9/2017
+Ashleigh Baudinot,Department D,$20.83,34,8098 Glacier Hill Street,Knoxville,Tennessee,971cdcfbb5505625fdb650f7a7fdf1e2,6/8/2016
+Celestyna Erskine,Department C,$78.74,67,9 Carpenter Hill,Chicago,Illinois,ec3ff4eb056a840d7640b55a6eaab256,8/15/2017
+Ignacio Arpur,Department A,$57.51,33,730 Fairfield Way,Cedar Rapids,Iowa,78c1d830ade37fbc17e14799411a975c,8/24/2017
+Zebedee Kedge,Department A,$78.91,8,237 Meadow Valley Avenue,New York City,New York,d4f6ad928b58bb9629eed5189adbb69f,5/7/2016
+Zebedee Kedge,Department A,$4.43,39,16 Darwin Terrace,Richmond,Virginia,d01a8b37d15c479f304027d52424e75d,5/10/2016
+Brear Fairs,Department D,$73.39,77,5367 Mccormick Park,Lubbock,Texas,088be9cb3d15dc62eb4faaa1770126c8,11/21/2016
+Shane Simkins,Department B,$77.31,53,48 Melby Hill,Daytona Beach,Florida,f9ac0ec30c222d3fc449858ec62ba97f,4/8/2017
+Rutherford Kermath,Department D,$71.95,41,47 Welch Hill,Chandler,Arizona,fafc06c4769f40ce3433218f74a21bb7,3/28/2016
+Jacquette Oakley,Department C,$33.40,53,1887 Bartelt Terrace,Milwaukee,Wisconsin,f7bed7937e7225db03748194ec126c2d,1/21/2017
+Zaneta Delmage,Department B,$45.56,41,9 Lukken Terrace,Flint,Michigan,5ad84d862442fa568ff45444c5bbf032,2/24/2017
+Bartholemy Kment,Department B,$3.79,83,1 Union Trail,Greenville,South Carolina,d8d890a659e1db34644a17850aee927d,1/9/2017
+Krystle Boothe,Department D,$63.89,11,22826 Loeprich Crossing,San Antonio,Texas,ebf4bfdfe53f5278009ed5d85867fd18,11/25/2016
+Dallas Le,Department B,$81.32,51,2896 Fuller Parkway,Oklahoma City,Oklahoma,aa8c8c03f2d344cff14f344a0e2b0882,5/15/2017
+Nell Lindup,Department C,$47.94,76,6 School Terrace,Atlanta,Georgia,b3dc78fc8921e68f850eff1e4c086f81,6/2/2016
+Bartholemy Kment,Department B,$34.70,56,07145 Hallows Junction,Stockton,California,dd19197d131cce4bd16311e9153cb5f9,1/27/2016
+Zebedee Kedge,Department A,$8.72,38,3346 Hooker Point,Joliet,Illinois,ec7db7a21e1345da1ff846ee1e395995,4/6/2016
+Zebedee Kedge,Department A,$60.09,80,7 Oak Valley Park,San Antonio,Texas,70fcf472bd2570e7b85b987be8470b98,6/19/2016
+Nell Lindup,Department C,$89.70,46,0071 Sloan Lane,Huntsville,Texas,70081999a7d2787a971312f15ccaadee,10/5/2016
+Zaneta Delmage,Department B,$34.68,83,321 Lindbergh Point,Dallas,Texas,248a30d4ef3a7f7d298834b2f05d5512,1/1/2016
+Jacquette Oakley,Department C,$6.81,50,57 Rusk Place,Boulder,Colorado,fd80cde829e5ec7f2595747d288d7a66,3/12/2017
+Nell Lindup,Department C,$69.84,37,3428 Hauk Way,Jefferson City,Missouri,ff03ef7313f1e83562140faad2889962,7/21/2016
+Celestyna Erskine,Department C,$26.52,48,7 Cottonwood Junction,Reading,Pennsylvania,11353236eb1bda1afda6e643c25c896e,1/26/2017
+Dallas Le,Department B,$73.36,72,1 Cody Circle,Minneapolis,Minnesota,3249783bd6c59b83f09bfbebf4fa010a,8/1/2017
+Linn Becerra,Department B,$39.81,78,36835 Sunbrook Hill,Portland,Oregon,2e4050e733b437de1e937f3ee3a813d4,7/3/2016
+Chad Yeatman,Department A,$17.90,56,41732 Sheridan Alley,Salt Lake City,Utah,bd9577175378a480acd9f0bd72859aba,7/31/2016
+Nell Lindup,Department C,$18.41,37,03 Scofield Court,Bloomington,Illinois,7def92f511108ad0f6fa0d6714459bba,11/8/2016
+Modesty Berringer,Department D,$91.68,51,67 Elgar Trail,Macon,Georgia,f61cbaf0bd38bf90ae2e5fafcde7bf5c,9/7/2016
+Ortensia Le,Department C,$50.05,78,72705 Doe Crossing Plaza,Madison,Wisconsin,dce222e28d0e089c9b94eb4ae99db36a,3/20/2016
+Dallas Le,Department B,$89.67,17,092 Golf View Place,Scottsdale,Arizona,fd20b14b4010a2f94b2ed64efe7ce935,3/14/2016
+Ashleigh Baudinot,Department D,$84.12,67,066 Ronald Regan Court,Young America,Minnesota,d671c73c9f07eeda70ee523e244d3b4f,6/25/2016
+Dallas Le,Department B,$12.60,57,60931 Schmedeman Crossing,Honolulu,Hawaii,4c1d87825d79ae95a34ffc16980e22d4,3/26/2017
+Ignacio Arpur,Department A,$76.71,96,7254 Ohio Circle,Santa Barbara,California,8d3c47b560b91b0571b5ab6f75c756b3,1/19/2016
+Nell Lindup,Department C,$4.57,1,51080 Northview Plaza,Dallas,Texas,1f9efc32a700df948c5d925c67f5ed8e,4/5/2016
+Jacquette Oakley,Department C,$77.66,15,4 Schmedeman Lane,West Hartford,Connecticut,ca0166802bd10b8dd64280d5f053f266,3/15/2017
+Jacquette Oakley,Department C,$61.89,39,65 Trailsway Point,South Bend,Indiana,769361b87083ffe3aeb5138bcce725ec,7/23/2016
+Chad Yeatman,Department A,$91.43,14,0 Dunning Drive,Waterbury,Connecticut,40c29774df8129d07f1c7e970fe10b44,4/27/2017
+Ortensia Le,Department C,$17.06,13,4570 Grim Alley,Boston,Massachusetts,11eb9c9613daffee05a8079c7db2dedd,7/21/2017
+Zaneta Delmage,Department B,$41.07,88,837 Crownhardt Plaza,Jacksonville,Florida,76361eccef1e5d8805f0e590a745fdcf,6/9/2016
+Ortensia Le,Department C,$84.84,14,77863 Waubesa Place,Saint Louis,Missouri,38d74ca7f8a10d9ca07d90822b663802,2/22/2017
+Rutherford Kermath,Department D,$81.05,14,1 Prairie Rose Court,Chattanooga,Tennessee,bc355e46335a7a278d60a2a88a5253ae,8/13/2017
+Zaneta Delmage,Department B,$63.99,14,13548 Towne Center,Milwaukee,Wisconsin,b81963055d5fbdef373746597f020013,8/27/2016
+Dallas Le,Department B,$39.24,63,3 Coleman Pass,Alexandria,Virginia,cd2dd2baba0622ffdae1eece7cc33cac,12/18/2016
+Zaneta Delmage,Department B,$96.48,52,48727 Northport Pass,Oakland,California,e17b65ac8fb22e84be86dfc766dadbe5,3/31/2016
+Krystle Boothe,Department D,$38.35,62,10285 Lakewood Center,Omaha,Nebraska,366f1c27d546e23768c98c17f536c230,3/24/2016
+Bartholemy Kment,Department B,$11.61,35,878 Iowa Crossing,Saint Louis,Missouri,ac87c9cb2b3f27e697f953fec6225470,7/20/2016
+Zebedee Kedge,Department A,$85.51,96,87 Kenwood Trail,San Jose,California,f74d149dd5d594e7e71cfda14d0556d1,4/3/2016
+Brear Fairs,Department D,$75.83,71,3489 Logan Alley,Stamford,Connecticut,830290807c3e0922a429b1081510e6c4,6/8/2016
+Celestyna Erskine,Department C,$48.73,37,526 Sunfield Court,Bronx,New York,a782c76e6e5e72abe7a63f318b4a9929,11/4/2016
+Zaneta Delmage,Department B,$34.55,82,714 Ronald Regan Park,New York City,New York,27b7732c5383576e80fb4d4a032ba13c,10/15/2016
+Rutherford Kermath,Department D,$79.45,80,150 Calypso Plaza,Galveston,Texas,77a13f7187d0b2f7828ec023fc12400d,3/14/2017
+Ortensia Le,Department C,$1.06,63,039 Norway Maple Pass,Tacoma,Washington,f5f79b2dde927c8ba669656321931aac,7/27/2017
+Zebedee Kedge,Department A,$67.89,89,414 Sachtjen Street,San Bernardino,California,41140593b6357053fef72ba421fcfdc2,1/5/2016
+Bartholemy Kment,Department B,$74.18,76,50854 Ridge Oak Way,Alhambra,California,fa03b0b3a7dcf1fa48bc52579600f176,4/19/2017
+Gothart Whimpenny,Department C,$57.95,8,65814 Mesta Center,Dallas,Texas,8cf54a28f87b995bba4a2cd248aca10b,10/5/2016
+Bartholemy Kment,Department B,$65.20,46,0132 Mallory Park,Evansville,Indiana,6de4efc43e424cdd108596f72cd03f0b,11/18/2016
+Ignacio Arpur,Department A,$19.87,9,562 Packers Hill,Young America,Minnesota,b5b8921c1dc34c8d45e2fbd5eecb3117,1/17/2017
+Zaneta Delmage,Department B,$72.08,1,734 Claremont Street,Atlanta,Georgia,7aeead47a7b713d5dbfa63c48cba9eec,11/5/2016
+Ashleigh Baudinot,Department D,$7.80,7,9511 Veith Junction,Newport News,Virginia,e6aa29bf1dc6b6ce32b8cb38da4c3033,9/16/2016
+Atlante Harower,Department D,$13.18,39,1 Farwell Lane,El Paso,Texas,2d630f75b8d9462232355d71d5ca93b2,1/18/2017
+Gothart Whimpenny,Department C,$55.81,54,84 Johnson Crossing,Spokane,Washington,2142bfda78650d513c82198611e2ced2,10/27/2016
+Shane Simkins,Department B,$2.41,65,5 Sycamore Road,Inglewood,California,9b449814d89fa2e359286d0d7c41c1df,6/6/2016
+Linn Becerra,Department B,$75.98,2,4987 Lakewood Gardens Parkway,Austin,Texas,6f02b34ff043597e8c49093c53354abd,4/7/2017
+Zaneta Delmage,Department B,$44.30,94,6 Kings Road,Seattle,Washington,5b535258f450a194c00d4a0613dac3a6,3/17/2016
+Celestyna Erskine,Department C,$88.62,6,3683 Melody Drive,Saint Louis,Missouri,6d72ac09d709ebe06776e24da09689b9,2/19/2017
+,,,12,36 Miller Center,Dallas,Texas,29d78999602086b5b2c37bc91ca9c3ef,5/27/2016
+Linn Becerra,Department B,$93.06,18,52 Dunning Avenue,Birmingham,Alabama,c5544093f947ca2a132cb94696f7a449,1/16/2017
+Linn Becerra,Department B,$52.29,89,13549 Dorton Terrace,Miami,Florida,2caf728f8ee7646911407d068bf2f9ed,7/28/2017
+Chad Yeatman,Department A,$46.84,65,37 Eggendart Circle,Louisville,Kentucky,f0ce6fc37c1762eaa790899b3b19a226,5/28/2017
+Ignacio Arpur,Department A,$22.69,22,62770 Paget Terrace,Decatur,Georgia,49985d9eb9bc084eb15aa518b0ee536d,3/23/2016
+Dallas Le,Department B,$31.08,23,8327 Rieder Alley,Tallahassee,Florida,0c5ac43925b6c4a5a6747c65abc26394,2/21/2016
+Atlante Harower,Department D,$37.82,59,209 Caliangt Court,Ogden,Utah,4314bddd68d5e72525511c8f63078b77,10/5/2016
+Gothart Whimpenny,Department C,$69.22,5,15147 Declaration Crossing,San Antonio,Texas,011444510b7d02c11d2225feb934fe85,2/23/2016
+Shena Reeson,Department B,$92.44,77,4838 Heath Point,Syracuse,New York,6d364d707fc67dc156d869b9c86576f8,10/17/2016
+Zaneta Delmage,Department B,$95.91,80,3 Carpenter Parkway,Pittsburgh,Pennsylvania,a77e330fa0acbd711da3a7fdfb2f3f5d,11/26/2016
+Zaneta Delmage,Department B,$64.39,92,1714 Arizona Point,Lansing,Michigan,5191f28116437f66ea2a1567af2ac1bb,3/7/2016
+Bartholemy Kment,Department B,$82.52,70,8709 Buell Parkway,Salem,Oregon,eb26d3f9b7ddb1a295992c2548b63bfc,4/1/2016
+Dallas Le,Department B,$52.90,24,8529 Hagan Street,Cumming,Georgia,e9e6510eb029da73f71bade105645aae,11/20/2016
+Zaneta Delmage,Department B,$66.59,59,867 Sunbrook Court,Hattiesburg,Mississippi,d7882ba70027755934b8b984a9359180,7/6/2016
+Nell Lindup,Department C,$10.58,4,756 Mcbride Road,Athens,Georgia,3b40ca4dcd7d67e6d50f7c492c50c9e7,11/27/2016
+Ignacio Arpur,Department A,$35.92,95,99 Memorial Park,Irving,Texas,1faf665bddb7c179bc4a129fc2747607,3/31/2017
+Brear Fairs,Department D,$42.57,88,223 Westport Road,Atlanta,Georgia,9a928c01c9c07108f0b3560f037216f8,1/3/2016
+Bartholemy Kment,Department B,$88.56,14,7 Bartelt Circle,Sacramento,California,bd932a6160bd9d61e446752db411c348,1/13/2016
+Ortensia Le,Department C,$11.93,33,8 Burrows Hill,Saint Paul,Minnesota,3c7d889293e9910baf2b8c10ead1def6,6/30/2016
+Powell Amorts,Department B,$28.84,36,17023 Tennyson Park,Reno,Nevada,1213d98157d721b5f71c8f4cce1f22c8,7/23/2017
+Atlante Harower,Department D,$34.31,45,6 Monument Court,Milwaukee,Wisconsin,53858776e1be6105d974a60dd4e06583,9/1/2016
+Nell Lindup,Department C,$62.04,97,5709 Grover Point,Chattanooga,Tennessee,c78c412d7b10e77d2174c124225ba95f,8/5/2016
+Zebedee Kedge,Department A,$63.65,39,0187 Marquette Junction,Huntington,West Virginia,cb5f5b9757a2197d2c065b4d9d03cf0c,5/25/2017
+Zebedee Kedge,Department A,$35.54,60,9363 Sloan Pass,Midland,Michigan,0f0ca8ff56d673012ec13adc91a161af,9/15/2016
+Jacquette Oakley,Department C,$62.80,98,93981 Jenna Circle,Des Moines,Iowa,84e00c46f75718943879d3ccfcd4977f,9/30/2016
+Shane Simkins,Department B,$0.49,54,43265 Ridgeway Trail,San Diego,California,d9d7b25aef86db5470f81638b83edae9,1/15/2017
+Ortensia Le,Department C,$54.74,38,91755 Shoshone Circle,Jamaica,New York,178c3d1a8c20972105c1be5be961058e,7/8/2016
+Ortensia Le,Department C,$22.36,20,891 Claremont Plaza,Washington,District of Columbia,0a8ae945a0acef6d8a232c4c75619006,6/1/2016
+Celestyna Erskine,Department C,$42.85,93,766 Forest Dale Junction,Brooksville,Florida,ece6ea35e106509e6e7dab5c98ca95a1,5/27/2017
+Zaneta Delmage,Department B,$59.92,22,4 Cottonwood Junction,Reno,Nevada,9f9f62346f548335f953d5d6f39e80e2,8/17/2016
+Chad Yeatman,Department A,$47.90,77,7 Fieldstone Point,Erie,Pennsylvania,78a18fbf888a35780a8ef34e6c7d6233,5/28/2017
+Shena Reeson,Department B,$40.51,69,35 Melrose Way,Fort Lauderdale,Florida,67d0bea4f6d671f7f9ff261dfbc36186,6/9/2017
+Chad Yeatman,Department A,$85.09,54,0 Bartelt Road,Gulfport,Mississippi,3955bd3291aa25e146a043cdbafad0c4,2/9/2016
+Jacquette Oakley,Department C,$20.93,90,083 Tony Street,Rockford,Illinois,9ef66836347ecfcdd0dcf276edfdce39,7/4/2017
+Ashleigh Baudinot,Department D,$8.87,21,73 Roth Avenue,Waterbury,Connecticut,bc5334e58dee22ec2e86432dd79babc5,4/13/2017
+Dallas Le,Department B,$89.07,3,73 Mayer Circle,New York City,New York,b22defd2c31d83d2f722a421cb122aa7,5/7/2017
+Ortensia Le,Department C,$21.15,37,7404 South Street,Savannah,Georgia,d0577a3b0cdd7a343e6b653a2418ecbe,6/5/2016
+Krystle Boothe,Department D,$77.99,87,42976 Southridge Trail,Wichita,Kansas,cfb9401bbbd8b1587f22b0717ab37282,6/12/2016
+,,,62,009 Onsgard Parkway,Baltimore,Maryland,7890cae3e1fcc0a6fa561b8593f3bd86,10/10/2016
+Shena Reeson,Department B,$8.26,92,01372 Crownhardt Drive,Philadelphia,Pennsylvania,775376ff6d71693d9e6d97997c33e532,5/4/2017
+Ashleigh Baudinot,Department D,$43.56,14,83994 Alpine Crossing,Worcester,Massachusetts,c1ada0f4f0b910b156505cb3967eca6c,3/16/2016
+Zebedee Kedge,Department A,$29.74,18,762 Eagan Park,Brooklyn,New York,aea0c68e778aa00a0e98e96d62a15b0b,10/24/2016
+Powell Amorts,Department B,$85.28,78,7 Fair Oaks Street,Charlotte,North Carolina,5febe4274c7adea482fff54c40d79243,6/15/2016
+Rutherford Kermath,Department D,$60.50,96,40 Everett Trail,Everett,Washington,622952740d838f7675d36ff327e5724a,8/13/2017
+Atlante Harower,Department D,$80.76,54,26 Bonner Plaza,Athens,Georgia,cecfda349d955ddc37bd79e7c1986e23,4/8/2016
+Shena Reeson,Department B,$48.01,34,082 Columbus Avenue,El Paso,Texas,10414917fef96ef73d40821f70ad0d9c,11/3/2016
+Linn Becerra,Department B,$16.33,24,51062 Dovetail Plaza,Katy,Texas,d8c9d59f5da3e00ceecb9a146005e86d,2/13/2016
+Shena Reeson,Department B,$43.87,51,536 Esch Road,Charlottesville,Virginia,0342b09aa9d562895b9f7ccf622ac3ea,6/19/2017
+Ortensia Le,Department C,$1.99,45,31 La Follette Crossing,Jamaica,New York,216fa070c8348813c927e1cc78533041,3/15/2017
+Zaneta Delmage,Department B,$89.56,10,08 Summit Hill,Corpus Christi,Texas,806ef3a2a65d75a1561164ee803e6800,6/27/2017
+Celestyna Erskine,Department C,$88.32,24,56 Morningstar Plaza,Portsmouth,New Hampshire,0f09032d1c59fc0bbae750840c74faff,3/24/2017
+Rutherford Kermath,Department D,$16.14,49,7 Hoepker Park,Seattle,Washington,6703c4f954ab38a346d491f70de62234,6/1/2016
+Powell Amorts,Department B,$2.03,72,0 Norway Maple Drive,Shawnee Mission,Kansas,4d146776514a6b8e7c15511545a6e1da,2/24/2016
+Linn Becerra,Department B,$52.60,20,2945 Morrow Street,Beaufort,South Carolina,b8b8aae787ea14a8b384d3d392fed5ea,2/22/2017
+Modesty Berringer,Department D,$45.98,62,2861 Grover Street,Buffalo,New York,0d3b71740cdbfa4cf7ef46f083563ade,4/25/2017
+Zaneta Delmage,Department B,$48.77,29,596 Hauk Park,Duluth,Georgia,178c33992e51bc8fbee56d2cced839f1,2/14/2017
+Zebedee Kedge,Department A,$27.39,72,353 Old Shore Way,Detroit,Michigan,ec0200d09f7c984e5643ac76564f7dbd,11/24/2016
+Jacquette Oakley,Department C,$43.87,12,4671 Declaration Crossing,Nashville,Tennessee,62ab71bcb5c0724f1258205b3e99a6f3,8/20/2017
+Shena Reeson,Department B,$58.60,33,04 Chinook Pass,Orange,California,9f2c5038d808e71163c5b099767f2172,2/4/2016
+Ortensia Le,Department C,$75.50,48,1106 Lakewood Avenue,Delray Beach,Florida,de8ee9c38717fc2eb9674e93cf89f45c,9/19/2016
+Bartholemy Kment,Department B,$70.29,5,18 Sauthoff Junction,Atlanta,Georgia,1080430e75a0b13b63436bafdb9c06e6,11/11/2016
+Shena Reeson,Department B,$87.85,93,55770 Waxwing Trail,Oklahoma City,Oklahoma,f5fbb665cd2cf1d62ed7c6bde254dac2,7/25/2017
+Modesty Berringer,Department D,$29.27,26,17623 Ridgeway Plaza,Columbus,Georgia,ce277086201da355fadeee5dfac91ac4,4/7/2016
+Ashleigh Baudinot,Department D,$19.24,63,276 Fuller Crossing,Wilmington,Delaware,f4b08f0c1e6dcb17bf80116a6158a70d,11/25/2016
+Zebedee Kedge,Department A,$71.92,27,23 Park Meadow Way,Trenton,New Jersey,ba4878503de45ebcb9fbb939924ad296,7/17/2017
+Ignacio Arpur,Department A,$31.52,45,84869 Grim Circle,Los Angeles,California,03fc7ac5ae3cd7a6e3757083d884707e,1/13/2016
+Atlante Harower,Department D,$96.90,87,84581 Doe Crossing Way,Lincoln,Nebraska,4cd3c30390d6bd241eb57054fee230f0,11/17/2016
+Nell Lindup,Department C,$18.64,10,5580 Packers Plaza,New Orleans,Louisiana,1514726e99a82a92b4bc7be52e0dec48,7/20/2016
+Celestyna Erskine,Department C,$18.18,85,416 Nevada Circle,Vancouver,Washington,cd95d9eb5ea7c564019f425e75fb2373,7/21/2016
+Brear Fairs,Department D,$20.22,52,1450 American Ash Crossing,Washington,District of Columbia,0de2984deadfe9a2a763d4e63f891bb5,6/24/2016
