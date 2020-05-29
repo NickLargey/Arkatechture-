@@ -20,60 +20,53 @@ df.to_csv(buf, header=False, index=False)
 buf.pos = 0
 
 
-print(df)
-
-
-def create_table():
-    # create tables in the PostgreSQL database
-    command = (
-        """
-		CREATE TABLE IF NOT EXISTS salesdata (
-			sales_person VARCHAR(50),
-			sales_department VARCHAR(50),
-			amount decimal,
-      quantity smallint,
-      street VARCHAR(100),
-      city VARCHAR(50),
-      state VARCHAR(25),
-      item_id VARCHAR(50),
-      date DATE)
-			"""
-    )
-    conn = None
-    try:
-        params = config()
-        conn = psycopg2.connect(**params)
-        cur = conn.cursor()
-        cur.execute(command)
-        cur.copy_from(buf, 'salesdata', sep=',')
-        cur.close()
-        conn.commit()
-    except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-    finally:
-        if conn is not None:
-            print("Table set")
-            conn.close()
-
-
 def create_data():
-
-    # create_table()
-
+    # Sales person with highest sales
     highest_sales_by_person = sql.SQL("""
-      SELECT sales_person, SUM(amount) as sum_amount FROM salesdata GROUP BY sales_person ORDER BY sum_amount DESC
+      SELECT sales_person, SUM(amount) as sum_amount FROM salesdata GROUP BY sales_person ORDER BY sum_amount DESC LIMIT 1
     """)
 
+    # Sales department with highest sales in 2017
+    highest_sales_by_dept = sql.SQL("""
+      SELECT sales_department, SUM(amount) as sum_amount FROM salesdata WHERE EXTRACT(YEAR from date)=2017 GROUP BY sales_department ORDER BY sum_amount DESC LIMIT 1
+    """)
+
+    # Average sales per month for all employees
+    avg_sales_by_month = sql.SQL(""" 
+      SELECT sales_department, SUM(amount) as sum_amount,  EXTRACT(MONTH from date) as mnth FROM salesdata GROUP BY sales_department, mnth ORDER BY mnth DESC
+    """)
+
+    # Total sales amount for each sales person in descending order
+    sales_by_person = sql.SQL("""
+      SELECT sales_person, SUM(amount) as sum_amount FROM salesdata GROUP BY sales_person ORDER BY sum_amount DESC 
+    """)
     try:
         params = config()
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
 
         cur.execute(highest_sales_by_person)
-        test = cur.fetchall()
+        person = cur.fetchall()
+        cur.execute(highest_sales_by_dept)
+        dept = cur.fetchall()
+        cur.execute(avg_sales_by_month)
+        month = cur.fetchall()
+        cur.execute(sales_by_person)
+        avg = cur.fetchall()
 
-        for row in test:
-            print(row)
+        for p in person:
+            print(p)
+        print("=========================================")
+        for d in dept:
+            print(d)
+        print("=========================================")
+        for m in month:
+            print(m)
+        print("=========================================")
+        for a in avg:
+            print(a)
+        print("=========================================")
+
         conn.commit()
 
         cur.close
