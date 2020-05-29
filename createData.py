@@ -33,7 +33,7 @@ def create_data():
 
     # Average sales per month for all employees
     avg_sales_by_month = sql.SQL(""" 
-      SELECT sales_department, SUM(amount) as sum_amount,  EXTRACT(MONTH from date) as mnth FROM salesdata GROUP BY sales_department, mnth ORDER BY mnth DESC
+      SELECT EXTRACT(MONTH from date) as mnth, SUM(amount) as sum_amount FROM salesdata GROUP BY mnth ORDER BY mnth DESC
     """)
 
     # Total sales amount for each sales person in descending order
@@ -57,12 +57,15 @@ def create_data():
         for p in person:
             print(p)
         print("=========================================")
+
         for d in dept:
             print(d)
         print("=========================================")
+
         for m in month:
             print(m)
         print("=========================================")
+
         for a in avg:
             print(a)
         print("=========================================")
