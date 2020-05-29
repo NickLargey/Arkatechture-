@@ -39,18 +39,22 @@ def create_data():
         cur.execute(sales_by_person)
         avg = cur.fetchall()
 
+        print("Question 1: ")
         for p in person:
             print(p)
         print("=========================================")
 
+        print("Question 2: ")
         for d in dept:
             print(d)
         print("=========================================")
 
+        print("Question 3: ")
         for m in month:
             print(m)
         print("=========================================")
 
+        print("Question 4: ")
         for a in avg:
             print(a)
         print("=========================================")
