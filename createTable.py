@@ -1,3 +1,27 @@
+import pandas as pd
+import psycopg2
+
+from psycopg2 import sql
+from StringIO import StringIO
+
+from config import config
+
+df = pd.read_csv("./salesdata.csv")
+
+df_nan = df[pd.isna(df["sales_person"])]
+df_nan.to_csv("review.csv", sep="\t")
+
+df["date"] = pd.to_datetime(df.date)
+df.sort_values("date", inplace=True, ascending=False)
+
+df.amount.replace(r"\$", '', regex=True, inplace=True)
+df.dropna(inplace=True)
+
+buf = StringIO()
+df.to_csv(buf, header=False, index=False)
+buf.pos = 0
+
+
 def create_table():
     command = (
         """
