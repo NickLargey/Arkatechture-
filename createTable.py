@@ -8,7 +8,8 @@ from config import config
 
 df = pd.read_csv("./salesdata.csv")
 
-df_nan = df[pd.isna(df["sales_person"])]
+nan_mask = pd.isnull(df).any(axis=1)
+df_nan = df[nan_mask]
 df_nan.to_csv("review.csv", sep="\t")
 
 df["date"] = pd.to_datetime(df.date)

@@ -1,43 +1,42 @@
-Question 1: 
-('Modesty Berringer', Decimal('2824.94'))
-=========================================
-Question 2: 
-('Department B', Decimal('7363.79'))
-=========================================
-Question 3: 
-(12.0, Decimal('2434.23'))
-(11.0, Decimal('2339.09'))
-(10.0, Decimal('2668.10'))
-(9.0, Decimal('2724.99'))
-(8.0, Decimal('4759.37'))
-(7.0, Decimal('6749.13'))
-(6.0, Decimal('4273.07'))
-(5.0, Decimal('3686.73'))
-(4.0, Decimal('5316.15'))
-(3.0, Decimal('5375.29'))
-(2.0, Decimal('4420.55'))
-(1.0, Decimal('5275.69'))
-=========================================
-Question 4: 
-('Modesty Berringer', Decimal('2824.94'))
-('Ortensia Le', Decimal('2795.41'))
-('Bartholemy Kment', Decimal('2763.25'))
-('Celestyna Erskine', Decimal('2700.21'))
-('Zaneta Delmage', Decimal('2657.69'))
-('Shena Reeson', Decimal('2617.97'))
-('Ignacio Arpur', Decimal('2601.81'))
-('Dallas Le', Decimal('2586.02'))
-('Linn Becerra', Decimal('2498.67'))
-('Brear Fairs', Decimal('2400.96'))
-('Jacquette Oakley', Decimal('2359.11'))
-('Zebedee Kedge', Decimal('2333.52'))
-('Rutherford Kermath', Decimal('2234.46'))
-('Atlante Harower', Decimal('2217.98'))
-('Powell Amorts', Decimal('2216.37'))
-('Krystle Boothe', Decimal('2203.42'))
-('Chad Yeatman', Decimal('2161.16'))
-('Nell Lindup', Decimal('2143.43'))
-('Shane Simkins', Decimal('2017.34'))
-('Ashleigh Baudinot', Decimal('1870.83'))
-('Gothart Whimpenny', Decimal('1817.84'))
-=========================================
+Highest Sales By Person: 
+Modesty Berringer
+
+Sales By Department: 
+Department B
+
+Sales By Month: 
+12.0 2434.23
+11.0 2339.09
+10.0 2668.10
+9.0 2724.99
+8.0 4759.37
+7.0 6749.13
+6.0 4273.07
+5.0 3686.73
+4.0 5316.15
+3.0 5375.29
+2.0 4420.55
+1.0 5275.69
+
+Total Sales Per Person: 
+Modesty Berringer 2824.94
+Ortensia Le 2795.41
+Bartholemy Kment 2763.25
+Celestyna Erskine 2700.21
+Zaneta Delmage 2657.69
+Shena Reeson 2617.97
+Ignacio Arpur 2601.81
+Dallas Le 2586.02
+Linn Becerra 2498.67
+Brear Fairs 2400.96
+Jacquette Oakley 2359.11
+Zebedee Kedge 2333.52
+Rutherford Kermath 2234.46
+Atlante Harower 2217.98
+Powell Amorts 2216.37
+Krystle Boothe 2203.42
+Chad Yeatman 2161.16
+Nell Lindup 2143.43
+Shane Simkins 2017.34
+Ashleigh Baudinot 1870.83
+Gothart Whimpenny 1817.84

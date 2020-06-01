@@ -1,6 +1,5 @@
 import pandas as pd
 import psycopg2
-
 from psycopg2 import sql
 from config import config
 
@@ -39,26 +38,20 @@ def create_data():
         cur.execute(sales_by_person)
         avg = cur.fetchall()
 
-        print("Question 1: ")
-        for p in person:
-            print(p)
-        print("=========================================")
-
-        print("Question 2: ")
-        for d in dept:
-            print(d)
-        print("=========================================")
-
-        print("Question 3: ")
-        for m in month:
-            print(m)
-        print("=========================================")
-
-        print("Question 4: ")
-        for a in avg:
-            print(a)
-        print("=========================================")
-
+        with open("./answers.txt", "w+") as f:
+            buffer = "Highest Sales By Person: \n"
+            for p in person:
+                buffer += str(p[0]) + "\n"
+            buffer += "\nSales By Department: \n"
+            for d in dept:
+                buffer += str(d[0]) + "\n"
+            buffer += "\nSales By Month: \n"
+            for m in month:
+                buffer += str(m[0]) + " " + str(m[1]) + "\n"
+            buffer += "\nTotal Sales Per Person: \n"
+            for a in avg:
+                buffer += str(a[0]) + " " + str(a[1]) + "\n"
+            f.write(buffer)
         conn.commit()
 
         cur.close
